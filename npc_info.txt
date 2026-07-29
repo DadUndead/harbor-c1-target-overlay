@@ -1,0 +1,2015 @@
+Gremlin	1	77	44	4	40	2	31	253	44	fairy	no	-	29	2
+Rabbit	1	77	44	4	40	2	31	253	44	animal	no	-	29	2
+Goblin	5	156	77	13	49	4	38	253	11	humanoid	no	-	147	4
+Imp	6	182	85	14	52	5	41	253	44	fairy	no	-	176	5
+Imp Elder	7	205	94	18	52	6	42	253	44	fairy	no	-	206	7
+Orc Archer	8	244	102	43	57	6	45	227	88	humanoid	yes	-	235	8
+Green Fungus	9	271	111	22	57	7	46	253	44	plant	no	-	265	9
+Felim Lizardman	14	437	156	33	80	12	59	253	44	humanoid	no	-	412	16
+Vuku Orc	14	450	156	34	75	12	59	253	11	humanoid	no	-	412	16
+Felim Lizardman Scout	15	468	165	39	75	14	61	253	44	humanoid	no	-	441	18
+Vuku Orc Archer	15	482	165	83	78	14	61	227	88	humanoid	yes	-	441	18
+Gora Werewolf	16	500	174	44	79	15	64	253	11	humanoid	yes	-	471	19
+Dryad	13	407	147	30	76	11	56	253	44	elemental	no	-	382	15
+Felim Lizardman Warrior	17	535	184	48	82	16	67	253	44	humanoid	no	-	500	21
+Marsh Zombie	13	407	147	33	69	11	56	253	44	undead	no	HpSuck	382	15
+Stone Golem	13	407	147	30	69	11	56	253	44	construct	no	Magic	382	15
+Vuku Orc Fighter	17	535	184	48	82	16	67	253	44	humanoid	yes	-	500	21
+Carnivorous Fungus	14	437	156	35	73	12	59	253	44	plant	yes	-	412	16
+Dryad Elder	14	437	156	33	80	12	59	253	44	elemental	no	-	412	16
+Marsh Zombie Lord	14	437	156	33	80	12	59	253	44	undead	no	HpSuck	412	16
+Red Bear	14	437	156	35	73	12	59	253	44	animal	no	-	412	16
+Misery Skeleton	14	874	156	35	73	12	59	253	44	undead	yes	-	766	30
+Shadow Beast	15	468	165	39	75	14	61	253	44	animal	no	-	441	18
+Langk Lizardman Warrior	17	535	184	48	82	16	67	253	44	humanoid	yes	-	500	21
+Lesser Dark Horror	15	482	165	37	78	14	61	253	44	undead	yes	-	441	18
+Ruin Zombie	15	468	165	39	75	14	61	253	44	undead	no	HpSuck	441	18
+Langk Lizardman Scout	16	500	174	44	79	15	64	253	44	humanoid	no	-	471	19
+Pincher	16	500	174	44	79	15	64	253	44	bug	no	-	471	19
+Ruin Zombie Leader	16	500	174	40	87	15	64	253	44	undead	no	HpSuck	471	19
+Langk Lizardman	15	482	165	37	78	14	61	253	44	humanoid	no	-	441	18
+Omen Beast	17	535	184	48	82	16	67	253	44	beast	no	-	500	21
+Pinrul	17	535	184	48	82	16	67	253	44	bug	no	-	500	21
+Shade Horror	17	535	184	48	82	16	67	253	44	undead	no	-	500	21
+Prowler	17	535	184	48	82	16	67	253	44	bug	yes	-	500	21
+Tracker Skeleton	17	535	184	48	82	16	67	253	44	undead	no	-	500	21
+Lirein	18	571	193	52	86	18	70	253	44	elemental	yes	AtkSpd	538	23
+Mana Seeker	18	1144	193	47	95	18	70	253	44	construct	no	MpSuck	982	43
+Poison Spider	18	571	193	52	86	18	70	253	44	bug	no	Poison	554	24
+Scavenger Wererat	18	571	193	46	86	18	70	289	88	humanoid	no	-	528	23
+Sukar Wererat	18	571	193	46	86	18	70	289	88	humanoid	no	-	528	23
+Tainted Zombie	18	571	193	47	95	18	70	253	44	undead	no	HpSuck	528	23
+Tracker Skeleton Leader	18	571	193	52	86	18	70	253	44	undead	yes	-	528	23
+Arachnid Tracker	19	610	203	51	99	20	73	253	44	bug	yes	Poison	588	26
+Lirein Elder	19	610	203	58	90	20	73	253	44	elemental	yes	AtkSpd	570	26
+Skeleton Scout	19	610	203	117	99	20	73	227	88	undead	yes	-	560	25
+Stink Zombie	19	610	203	51	99	20	73	253	44	undead	no	HpSuck	560	25
+Sukar Wererat Leader	19	610	203	45	99	20	73	289	88	humanoid	yes	-	560	25
+Lesser Succubus	20	670	213	58	97	23	76	253	44	demonic	yes	Sleep	588	26
+Lycanthrope	20	649	213	62	93	23	76	253	11	humanoid	yes	-	588	26
+Arachnid Predator	20	649	213	62	93	23	76	253	44	bug	yes	Poison	616	27
+Skeleton Bowman	20	649	213	128	103	23	76	227	88	undead	yes	-	588	26
+Lesser Succubus Turen	21	690	227	68	97	25	79	253	44	demonic	yes	Sleep	631	29
+Ol Mahum Patrol	21	713	227	143	101	25	79	227	88	humanoid	yes	-	631	29
+Ruin Spartoi	21	690	227	62	107	25	79	253	44	undead	no	-	631	29
+Wandering Eye	21	690	227	62	107	25	79	253	44	construct	no	Root	631	29
+Dre Vanul Disposer	22	1468	242	74	102	28	82	253	44	demonic	yes	-	1258	60
+Lesser Succubus Tilfo	22	733	242	74	102	28	82	253	44	demonic	yes	Root	678	32
+Ol Mahum Guard	22	733	242	74	102	28	82	253	44	humanoid	no	-	678	32
+Hungry Eye	22	733	242	74	102	28	82	253	44	construct	no	Root	678	32
+Raging Spartoi	22	806	242	67	102	28	82	253	44	undead	yes	-	678	32
+Ol Mahum Straggler	23	803	257	76	109	31	85	253	44	humanoid	yes	-	725	35
+Tumran Bugbear	23	856	257	73	106	31	85	253	11	humanoid	no	-	725	35
+Ol Mahum Shooter	24	852	272	187	114	34	90	227	88	humanoid	yes	-	772	38
+Tumran Bugbear Warrior	24	824	272	89	110	34	90	253	11	humanoid	yes	-	772	38
+Ol Mahum Patrolman	25	961	287	87	115	37	93	253	44	humanoid	no	-	819	41
+Ol Mahum Captain	25	874	287	97	115	37	93	253	44	humanoid	yes	Shield	850	43
+Monster Eye Watcher	25	961	287	87	115	37	93	253	44	construct	no	Root	819	41
+Monster Eye Destroyer	26	1016	303	95	120	40	97	253	44	construct	yes	Root	872	44
+Selu Lizardman Scout	26	924	303	95	132	40	97	253	44	humanoid	no	-	872	44
+Lesser Basilisk	27	976	318	114	125	45	101	253	44	beast	yes	-	919	47
+Selu Lizardman Warrior	27	976	318	114	125	45	101	253	44	humanoid	yes	-	919	47
+Basilisk	28	1031	334	112	142	48	105	253	44	beast	yes	-	972	51
+Ol Mahum Legionnaire	28	1063	334	116	134	48	105	253	44	humanoid	no	-	972	51
+Androscorpio	29	1122	349	126	139	53	110	253	44	humanoid	no	-	1026	55
+Ant Larva	29	1195	349	121	135	53	110	253	44	bug	no	-	1026	55
+Ol Mahum Commander	29	1087	349	134	135	53	110	253	44	humanoid	yes	Might	1068	57
+Androscorpio Hunter	30	1145	365	144	140	58	113	253	44	humanoid	no	-	1080	59
+Whispering Wind	30	1145	365	131	154	58	113	253	44	elemental	no	Sleep	1080	59
+Ant	31	1205	381	156	145	63	118	253	44	bug	no	-	1153	64
+Ant Captain	31	1205	381	156	145	63	118	253	44	bug	yes	-	1153	64
+Ant Overseer	32	1267	397	168	151	69	122	253	44	bug	no	-	1229	69
+Ant Recruit	33	1331	413	165	173	75	127	253	44	bug	no	Poison	1372	79
+Granite Golem	33	1464	413	165	157	75	127	253	44	construct	no	-	1307	75
+Ant Patrol	34	1397	430	196	162	81	132	253	44	bug	no	-	1387	81
+Puncher	34	1397	430	196	162	81	132	253	44	construct	yes	-	1387	81
+Ant Guard	35	1512	446	197	174	88	137	253	44	bug	no	-	1470	87
+Ant Soldier	35	1512	446	197	174	88	137	253	44	bug	yes	Poison	1544	91
+Ant Warrior Captain	36	1535	463	226	175	96	141	253	44	monster	yes	-	1555	94
+Noble Ant	37	1657	480	228	187	104	146	253	44	bug	no	-	1643	101
+Noble Ant Leader	38	1680	497	260	187	112	152	253	44	bug	yes	-	1733	108
+Young Fox	1	77	44	4	40	2	31	253	44	animal	no	-	29	2
+Monster Eye	10	638	120	22	62	8	49	253	44	construct	no	-	547	19
+Orc Fighter	10	319	120	22	62	8	49	253	44	humanoid	yes	-	294	10
+Orc Marksman	10	308	120	55	60	8	49	227	88	humanoid	yes	-	294	10
+Vampire Bat	10	638	120	22	62	8	49	253	44	animal	no	-	547	19
+Orc Lieutenant	11	350	129	25	70	9	51	253	44	humanoid	no	-	323	12
+Drill Bat	11	702	129	27	64	9	51	253	44	animal	no	-	601	22
+Orc Fighter Leader	12	378	138	30	66	10	53	253	44	humanoid	yes	Might	363	13
+Skeleton	12	756	138	30	66	10	53	253	44	undead	yes	-	657	24
+Skeleton Archer	13	814	147	74	69	11	56	227	88	undead	yes	-	710	28
+Crasher	14	437	156	33	80	12	59	253	44	construct	no	Magic	412	16
+Skeleton Marksman	14	874	156	81	73	12	59	227	88	undead	yes	-	766	30
+Giant Spider	15	468	165	39	75	14	61	253	44	bug	yes	-	441	18
+Skeleton Lord	15	936	165	36	83	14	61	253	44	undead	no	-	821	33
+Dark Horror	16	500	174	44	79	15	64	253	44	undead	yes	-	471	19
+Talon Spider	16	500	174	44	79	15	64	253	44	bug	no	-	471	19
+Wererat	16	1034	174	41	81	15	64	253	44	humanoid	no	-	876	35
+Blade Spider	17	535	184	48	82	16	67	253	44	bug	yes	-	500	21
+Salamander	17	1105	184	45	85	16	67	253	44	elemental	no	-	931	39
+Undine	17	1105	184	45	85	16	67	253	44	elemental	yes	Magic	931	39
+Wererat Leader	17	1070	184	43	91	16	67	253	44	humanoid	yes	-	931	39
+Salamander Elder	18	1144	193	52	86	18	70	253	44	elemental	no	-	982	43
+Undine Elder	18	1144	193	47	95	18	70	253	44	elemental	yes	Magic	982	43
+Salamander Noble	19	1219	203	58	90	20	73	253	44	elemental	no	-	1040	46
+Undine Noble	19	1219	203	58	90	20	73	253	44	elemental	yes	Magic	1040	46
+Fox	2	94	52	9	42	3	33	253	44	animal	no	-	59	2
+Dre Vanul	20	1298	213	62	93	23	76	253	44	demonic	yes	-	1092	48
+Dre Vanul Scout	21	1381	227	68	97	25	79	253	44	demonic	yes	-	1173	54
+Elder Fox	3	108	60	12	43	3	35	253	44	animal	no	-	88	2
+Wolf	4	133	68	12	47	3	37	253	44	animal	no	-	118	3
+Giant Toad	5	156	77	13	49	4	38	253	44	beast	no	-	147	4
+Orc	6	182	85	14	52	5	41	253	11	humanoid	no	-	176	5
+Orc Grunt	7	211	94	17	54	6	42	253	11	humanoid	no	-	206	7
+Werewolf	9	280	111	21	59	7	46	253	11	humanoid	no	-	265	9
+Bugbear	21	713	227	64	101	25	79	253	11	humanoid	yes	-	631	29
+Cave Maiden	59	3565	1117	902	358	452	290	253	44	beast	yes	Root	4177	357
+Crocodile	25	874	287	97	115	37	93	253	44	animal	yes	-	819	41
+Death Knight	50	5388	830	560	278	263	225	253	44	undead	yes	-	5575	420
+Drake	57	3367	1052	816	340	404	275	253	44	dragon	yes	Flame	3899	324
+Gargoyle	27	1008	318	107	128	45	101	253	44	construct	yes	-	919	47
+Giant Bee	16	517	174	41	81	15	64	253	44	bug	no	-	471	19
+Giant Leech	24	852	272	84	114	34	90	253	44	monster	yes	-	772	38
+Giant Wild Hog	47	2498	738	440	261	216	205	253	44	animal	yes	-	2651	190
+Griffon	20	670	213	58	97	23	76	253	44	beast	no	-	588	26
+Grizzly	12	390	138	27	68	10	53	253	44	animal	yes	-	353	13
+Hangman Tree	35	1512	446	197	174	88	137	253	44	undead	yes	Root	1470	87
+Harpy	32	1308	397	158	156	69	122	253	44	beast	yes	-	1229	69
+Headless Knight	50	2694	830	508	305	263	225	253	44	undead	yes	Flame	3000	226
+Hobgoblin	21	713	227	64	101	25	79	253	11	humanoid	no	-	631	29
+Hungry Spirit	40	1832	531	298	201	131	163	253	44	undead	yes	-	1920	124
+Iron Golem	38	1680	497	237	207	112	152	253	44	construct	yes	-	1733	108
+King Bugbear	32	1267	397	168	151	69	122	253	11	humanoid	yes	-	1229	69
+Kobold	4	133	68	12	47	3	37	253	11	humanoid	no	-	118	3
+Lizardman	19	629	203	54	92	20	73	253	44	humanoid	no	-	560	25
+Magical Weaver	11	350	129	27	64	9	51	253	44	construct	no	MpSuck	323	12
+Mandragora Sprout	21	713	227	64	101	25	79	253	44	plant	no	-	631	29
+Mandragora Sapling	23	778	257	81	106	31	85	253	44	plant	yes	-	725	35
+Mandragora Blossom	25	874	287	97	115	37	93	253	44	plant	yes	-	819	41
+Marsh Stakato	29	1087	349	134	135	53	110	253	44	humanoid	yes	Strike	1135	61
+Medusa	34	1441	430	184	168	81	132	253	44	beast	yes	-	1387	81
+Minotaur	43	2074	618	365	223	163	180	253	11	beast	yes	-	2219	150
+Neer Crawler	28	1031	334	123	129	48	105	253	44	undead	yes	-	972	51
+Oel Mahum	53	3074	923	621	313	318	245	253	44	humanoid	yes	-	3371	265
+Ogre	41	1912	560	374	208	140	168	217	11	humanoid	yes	-	2017	132
+Ol Mahum	23	778	257	81	106	31	85	253	44	humanoid	no	-	725	35
+Ol Mahum Archer	25	874	287	216	115	37	93	227	88	humanoid	yes	-	819	41
+Ol Mahum Champion	29	1087	349	134	135	53	110	253	44	humanoid	yes	Strike	1135	61
+Succubus	32	1308	397	158	156	69	122	253	44	demonic	yes	-	1229	69
+Serpent Slave	40	1891	531	281	207	131	163	253	44	humanoid	yes	-	1920	124
+Silenos	30	1182	365	135	145	58	113	253	11	humanoid	no	-	1080	59
+Skeleton Royal Guard	26	924	303	122	120	40	97	217	11	undead	yes	-	872	44
+Spartoi	15	468	165	39	75	14	61	253	44	undead	yes	-	441	18
+Specter	26	954	303	99	124	40	97	253	44	undead	yes	-	872	44
+Sylph	10	308	120	24	60	8	49	253	44	elemental	no	Magic	294	10
+Troll	33	1331	413	181	157	75	127	253	11	beast	yes	-	1307	75
+Two-Headed Giant	35	1464	446	191	186	88	137	253	11	beast	yes	-	1470	87
+Walking Fungus	8	244	102	18	57	6	45	253	44	plant	no	-	235	8
+Wyrm	35	1464	446	211	168	88	137	253	44	dragon	yes	-	1470	87
+Zombie	6	182	85	14	52	5	41	253	44	undead	no	HpSuck	176	5
+Puma	15	468	165	39	75	14	61	253	44	beast	no	-	441	18
+Skeleton Marauder	29	1087	349	298	135	53	110	227	88	undead	yes	-	1026	55
+Skeleton Raider	30	1145	365	144	140	58	113	253	44	undead	yes	-	1080	59
+Tyrant	35	1464	446	211	168	88	137	253	44	beast	no	-	1470	87
+Tyrant Kingpin	36	1535	463	226	175	96	141	253	44	beast	yes	-	1555	94
+Queen Undine	50	2694	830	560	278	263	225	253	44	elemental	yes	Magic	3000	226
+Sorrow Maiden	27	976	318	103	125	45	101	253	44	undead	no	Magic	919	47
+Neer Ghoul Berserker	29	1087	349	134	135	53	110	253	44	undead	yes	-	1026	55
+Amber Basilisk	30	1259	365	131	140	58	113	253	44	beast	no	-	1080	59
+Strain	31	1205	381	156	145	63	118	253	44	undead	no	-	1153	64
+Ghoul	32	1267	397	168	151	69	122	253	44	undead	no	HpSuck	1229	69
+Dead Seeker	34	1397	430	178	162	81	132	253	44	beast	no	-	1387	81
+Dion Grizzly	20	714	213	57	93	23	76	253	44	animal	no	-	588	26
+Bloody Bee	23	778	257	81	106	31	85	253	44	bug	no	Poison	762	37
+Dire Wolf	24	824	272	89	110	34	90	253	44	animal	yes	-	772	38
+Kadif Werewolf	25	874	287	97	115	37	93	253	44	humanoid	no	-	819	41
+Ol Mahum Guerilla	26	1848	303	95	132	40	97	253	44	humanoid	no	-	1622	82
+Ol Mahum Raider	27	2148	318	103	125	45	101	253	44	humanoid	no	-	1706	87
+Ol Mahum Marksman	28	2062	334	275	129	48	105	227	88	humanoid	yes	-	1811	95
+Ol Mahum Sergeant	29	2174	349	121	148	53	110	253	44	humanoid	no	-	1909	102
+Ol Mahum Captain	30	2290	365	144	140	58	113	253	44	humanoid	yes	-	2007	110
+Turmak	34	2794	430	196	162	81	132	253	44	monster	yes	Burn	2578	151
+Porta	40	4031	531	272	201	131	195	253	44	construct	no	-	3568	231
+Excuro	41	3823	560	291	228	140	168	253	44	construct	no	HpSuck	3749	246
+Mordeo	42	3984	589	342	214	152	174	253	44	construct	no	-	3934	262
+Ricenseo	43	4148	618	332	223	163	180	253	44	construct	no	Root	4123	279
+Krator	44	4318	648	354	252	175	223	253	44	construct	yes	Magic	4317	296
+Premo	45	4488	677	414	237	188	193	253	44	beast	no	Stun	5022	349
+Validus	46	4663	707	401	270	202	199	253	44	construct	no	-	4719	335
+Dicor	47	4840	738	468	252	216	205	253	44	construct	no	Poison	5081	364
+Perum	48	5020	768	452	287	231	211	253	44	construct	no	Magic	5138	376
+Torfe	49	5203	799	528	269	247	219	253	44	construct	yes	HpSuck	5354	396
+Mandragora Sprout	20	649	213	62	93	23	76	253	44	plant	no	-	588	26
+Ol Mahum Ranger	22	806	242	151	102	28	82	227	88	humanoid	yes	-	678	32
+Giant Mist Leech	25	874	287	87	115	37	93	253	44	beast	no	-	819	41
+Gray Ant	26	924	303	95	132	40	97	253	44	bug	no	-	872	44
+Horror Mist Ripper	27	976	318	114	125	45	101	253	44	undead	yes	HpSuck	919	47
+Giant Crimson Ant	28	1031	334	123	129	48	105	253	44	bug	no	Poison	1019	54
+Stinger Wasp	30	1259	365	131	140	58	113	253	44	animal	yes	-	1080	59
+Marsh Stakato Worker	31	1205	381	142	145	63	118	253	44	humanoid	no	Strike	1278	71
+Toad Lord	32	1393	397	153	151	69	122	253	44	beast	no	-	1229	69
+Marsh Stakato Soldier	33	1331	413	165	173	75	127	253	44	humanoid	no	-	1307	75
+Marsh Spider	34	1397	430	178	162	81	132	253	44	bug	yes	Poison	1457	85
+Marsh Stakato Drone	35	1464	446	211	168	88	137	253	44	humanoid	yes	Might	1531	90
+Shackle	45	2468	677	376	237	188	193	253	44	undead	yes	HpSuck	2430	169
+Cave Servant	46	2564	707	401	245	202	199	253	44	undead	no	-	2539	180
+Cave Servant Archer	47	2419	738	1042	252	216	205	227	88	undead	yes	Strike	3159	226
+Cave Servant Warrior	48	2509	768	498	261	231	211	253	44	undead	no	Stun	3064	224
+Cave Servant Captain	49	2602	799	480	296	247	219	253	44	undead	yes	Stun	3193	236
+Royal Cave Servant	51	3066	861	539	285	281	231	253	44	undead	no	Strike	3459	264
+Hunter Gargoyle	52	2882	892	626	294	300	239	253	44	construct	no	Stun	3596	279
+Dustwind Gargoyle	53	3276	923	601	303	318	245	253	44	fairy	no	Stun	3736	294
+Thunder Wyrm	54	3074	955	698	311	339	253	253	44	dragon	yes	-	3499	279
+Malruk Succubus	55	3172	987	736	321	360	260	253	44	demonic	no	MpSuck	3630	293
+Malruk Succubus Turen	56	3269	1019	776	330	382	268	253	44	demonic	no	Ice	3763	309
+Cave Keeper	58	3467	1084	859	348	428	283	253	44	beast	no	Strike	4474	379
+Turak Bugbear	31	1325	381	142	145	63	118	253	44	humanoid	no	-	1153	64
+Turak Bugbear Warrior	33	1464	413	165	157	75	127	253	44	humanoid	yes	-	1307	75
+Glass Jaguar	27	976	318	114	125	45	101	253	44	monster	no	-	919	47
+Delu Lizardman	28	1031	334	112	142	48	105	253	44	humanoid	no	-	972	51
+Delu Lizardman Scout	29	1087	349	134	135	53	110	253	44	humanoid	no	-	1026	55
+Delu Lizardman Warrior	30	1259	365	131	140	58	113	253	44	humanoid	yes	-	1080	59
+Skeleton Axeman	28	1031	334	112	129	48	105	253	44	undead	yes	-	972	51
+Batur Orc	31	1205	381	142	160	63	118	253	44	humanoid	no	-	1153	64
+Batur Orc Archer	32	1393	397	341	151	69	122	227	88	humanoid	yes	Strike	1464	82
+Batur Orc Warrior	33	1331	413	181	157	75	127	253	44	humanoid	yes	Strike	1448	83
+Batur Orc Shaman	34	1397	430	196	162	81	132	253	44	humanoid	no	HpSuck	1387	81
+Batur Orc Overlord	35	1464	446	211	168	88	137	253	44	humanoid	yes	Strike	1629	97
+Orc Champion	14	480	156	33	73	12	59	253	44	humanoid	yes	Might	423	16
+Orc Shaman	17	535	184	43	91	16	67	253	44	humanoid	no	PAtk	514	22
+Monster Eye Searcher	22	1468	242	74	102	28	82	253	44	construct	no	Root	1258	60
+Monster Eye Gazer	25	961	287	87	115	37	93	253	44	construct	no	Root	819	41
+Breka Orc	31	1325	381	142	145	63	118	253	44	humanoid	no	-	1153	64
+Breka Orc Archer	32	1267	397	341	166	69	122	227	88	humanoid	yes	Strike	1464	82
+Breka Orc Shaman	34	1397	430	178	179	81	132	253	44	humanoid	no	HpSuck	1387	81
+Breka Orc Overlord	35	1464	446	211	168	88	137	253	44	humanoid	yes	Strike	1629	97
+Breka Orc Warrior	33	1331	413	181	157	75	127	253	44	humanoid	yes	Strike	1448	83
+Cave Servant	46	2564	707	401	245	202	199	253	44	undead	no	-	2539	180
+Cave Servant Archer	47	2419	738	1042	252	216	205	227	88	undead	yes	-	2651	190
+Cave Servant Warrior	48	2509	768	498	261	231	211	253	44	undead	no	-	2765	202
+Cave Servant Captain	49	2602	799	480	296	247	219	253	44	undead	yes	-	2881	213
+Royal Cave Servant	51	3066	861	539	285	281	231	253	44	undead	no	Sleep	3121	238
+Cave Keeper	58	3467	1084	859	348	428	283	253	44	beast	no	HpSuck	4037	341
+Shackle	45	2468	677	376	237	188	193	253	44	undead	yes	HpSuck	2430	169
+Headless Knight	50	2694	830	508	305	263	225	253	44	undead	yes	-	3000	226
+Dustwind Gargoyle	53	3276	923	601	303	318	245	253	44	fairy	no	-	3371	265
+Thunder Wyrm	54	3074	955	698	311	339	253	253	44	dragon	yes	-	3499	279
+Malruk Succubus	55	3172	987	736	321	360	260	253	44	demonic	no	Sleep	3630	293
+Malruk Succubus Turen	56	3269	1019	776	330	382	268	253	44	demonic	no	Sleep	3763	309
+Drake	57	3367	1052	816	340	404	275	253	44	dragon	yes	-	3899	324
+Hunter Gargoyle	52	2882	892	626	294	300	239	253	44	construct	no	-	3245	251
+Cave Maiden	59	3565	1117	902	358	452	290	253	44	beast	yes	-	4177	357
+Enku Orc Champion	21	760	227	62	97	25	79	253	44	humanoid	yes	Strike	701	32
+Enku Orc Shaman	20	649	213	57	103	23	76	253	44	humanoid	no	Ice,Burn	588	26
+Virud Lizardman	20	714	213	57	93	23	76	253	44	humanoid	no	-	588	26
+Virud Lizardman Matriarch	24	824	272	89	110	34	90	253	44	humanoid	yes	-	772	38
+Virud Lizardman Warrior	22	733	242	74	102	28	82	253	44	humanoid	yes	-	678	32
+Virud Lizardman Scout	21	690	227	139	107	25	79	227	88	humanoid	yes	-	631	29
+Virud Lizardman Shaman 	23	778	257	73	117	31	85	253	44	humanoid	no	-	725	35
+Virud Lizardman Shaman 	23	778	257	73	117	31	85	253	44	humanoid	no	-	725	35
+Zenta Lizardman	40	2015	531	272	201	131	163	253	44	humanoid	no	-	1920	124
+Zenta Lizardman Matriarch	44	2159	648	389	230	175	186	253	44	humanoid	yes	Strike	2575	176
+Zenta Lizardman Scout	41	1912	560	647	228	140	168	227	88	humanoid	no	-	2017	132
+Zenta Lizardman Warrior	42	1992	589	342	214	152	174	253	44	humanoid	yes	-	2117	141
+Zenta Lizardman Shaman	43	2074	618	332	245	163	180	253	44	humanoid	no	-	2219	150
+Marsh Stakato Queen	36	1535	463	226	175	96	141	253	44	humanoid	yes	Strike	1724	104
+Grave	40	1832	531	298	201	131	163	253	44	humanoid	yes	-	1920	124
+Gargoyle Lord Sirocco	45	6950	677	389	245	188	193	253	44	humanoid	yes	Root	6561	456
+Garum Werewolf	9	271	111	22	57	7	46	253	44	humanoid	no	-	265	9
+Hook Spider	16	500	174	44	79	15	64	253	44	humanoid	no	-	471	19
+Brown Fox	2	94	52	9	42	3	33	253	44	humanoid	no	-	59	2
+Brown Bear	16	551	174	40	79	15	64	253	44	humanoid	yes	-	471	19
+Rakeclaw Imp	6	176	85	15	50	5	41	253	44	humanoid	no	-	176	5
+Rakeclaw Imp Hunter	7	205	94	18	52	6	42	253	44	humanoid	no	-	206	7
+Rakeclaw Imp Chieftain	10	308	120	24	60	8	49	253	44	humanoid	yes	-	294	10
+Great White Shark	30	1145	365	144	140	58	113	253	44	humanoid	yes	-	1080	59
+Giant Wasteland Basilisk	35	4394	446	191	186	88	137	253	44	humanoid	yes	-	3969	235
+Darkwing Bat	11	350	129	27	64	9	51	253	44	humanoid	no	-	323	12
+Black Wolf	4	133	68	12	47	3	37	253	44	humanoid	no	-	118	3
+Black Timber Wolf	6	182	85	14	52	5	41	253	44	humanoid	no	-	176	5
+Goblin Grave Robber	5	156	77	13	49	4	38	253	44	humanoid	no	-	147	4
+Goblin Tomb Raider Leader	12	390	138	27	68	10	53	253	44	humanoid	no	-	353	13
+Goblin Thief	10	319	120	22	62	8	49	253	44	humanoid	no	-	294	10
+Goblin Brigand	8	244	102	18	57	6	45	253	44	humanoid	no	-	235	8
+Goblin Brigand Leader	14	450	156	34	75	12	59	253	44	humanoid	yes	-	412	16
+Goblin Brigand Lieutenant	10	319	120	22	62	8	49	253	44	humanoid	yes	-	294	10
+Goblin Raider	5	156	77	13	49	4	38	253	44	humanoid	no	-	147	4
+Goblin Scout	8	244	102	18	57	6	45	253	44	humanoid	no	-	235	8
+Goblin Snooper	5	156	77	13	49	4	38	253	44	humanoid	no	-	147	4
+Goblin Lookout	8	244	102	18	57	6	45	253	44	humanoid	no	-	235	8
+Ghost Guardian	21	690	227	62	97	25	79	253	44	undead	yes	-	631	29
+Mineshaft Bat	11	350	129	27	64	9	51	253	44	humanoid	no	-	323	12
+Monster Eye Tracker	10	340	120	22	60	8	49	253	44	humanoid	no	-	294	10
+Patriarch Kuroboros	35	4835	446	191	168	88	137	253	44	humanoid	yes	Poison	3969	235
+Greystone Golem	13	407	147	30	76	11	56	253	44	humanoid	no	Magic	382	15
+Gremlin Scavenger	1	77	44	4	40	2	31	253	44	humanoid	no	-	29	2
+Grizzly Bear	17	589	184	43	82	16	67	253	44	humanoid	no	-	500	21
+Green Dryad	8	236	102	18	55	6	45	253	44	humanoid	no	-	235	8
+Longtail Fox	2	94	52	9	42	3	33	253	44	humanoid	no	-	59	2
+Nightmare Weaver	21	690	227	68	97	25	79	253	44	humanoid	yes	-	631	29
+Nightmare Flyer	28	2062	334	123	129	48	105	253	44	humanoid	no	-	1811	95
+Slave Skeleton	12	378	138	30	66	10	53	253	44	undead	yes	-	353	13
+Undead Slave	19	610	203	58	90	20	73	253	44	undead	no	HpSuck	560	25
+Werewolf Chieftain	12	378	138	30	66	10	53	253	44	humanoid	yes	-	353	13
+Werewolf Hunter	10	308	120	24	60	8	49	253	44	humanoid	yes	-	294	10
+Malex Herald Of Dagoniel	30	3436	365	144	140	58	113	253	44	humanoid	yes	Magic	2916	159
+Dark Terror	16	500	174	44	79	15	64	253	44	undead	yes	-	471	19
+Darkstone Golem	13	407	147	30	76	11	56	253	44	humanoid	no	-	382	15
+Death Wraith	55	3172	987	736	321	360	260	253	44	construct	yes	Magic	3630	293
+Cave Spider	15	468	165	39	75	14	61	253	44	humanoid	no	-	441	18
+Cave Bat	13	407	147	33	69	11	56	253	44	humanoid	no	-	382	15
+Cave Fang Spider	16	500	174	44	79	15	64	253	44	humanoid	yes	-	471	19
+Dre Vanul Tracker	20	649	213	62	93	23	76	253	44	humanoid	yes	-	588	26
+Dre Vanul Slayer	22	733	242	74	102	28	82	253	44	humanoid	yes	-	678	32
+Dre Vanul Beholder	21	690	227	68	97	25	79	253	44	humanoid	yes	-	631	29
+Dwarf Ghost	20	649	213	62	93	23	76	253	44	undead	yes	HpSuck	588	26
+Dementia Beast	17	1070	184	48	82	16	67	253	44	humanoid	no	-	931	39
+Langk Lizardman Leader	24	907	272	81	110	34	90	253	44	humanoid	yes	-	772	38
+Langk Lizardman Lieutenant	21	760	227	62	97	25	79	253	44	humanoid	no	-	631	29
+Ratman Hunter	18	571	193	47	95	18	70	253	44	humanoid	no	-	528	23
+Ratman Warrior	19	610	203	58	90	20	73	253	44	humanoid	no	-	560	25
+Ratman Spy	16	500	174	44	79	15	64	253	44	humanoid	no	-	471	19
+Tunath Orc Marksman	10	638	120	52	62	8	49	227	88	humanoid	yes	-	547	19
+Tunath Orc Warrior	12	756	138	26	72	10	53	253	44	humanoid	yes	-	657	24
+Maraku Werewolf	9	271	111	22	57	7	46	253	44	humanoid	no	-	265	9
+Maraku Werewolf Chieftain	14	437	156	35	73	12	59	253	44	humanoid	yes	-	412	16
+Mountain Fungus	8	236	102	19	55	6	45	253	44	humanoid	no	-	235	8
+Madness Beast	20	1948	213	62	93	23	76	253	44	humanoid	yes	Magic	1588	70
+Merkenis Escort	21	760	227	62	97	25	79	253	44	undead	yes	-	631	29
+Grave Keeper	13	407	147	30	76	11	56	253	44	humanoid	no	-	382	15
+Moonstone Beast	17	535	184	48	82	16	67	253	44	humanoid	no	-	500	21
+Barbed Bat	12	378	138	30	66	10	53	253	44	humanoid	no	-	353	13
+Mist Terror	15	468	165	39	75	14	61	253	44	undead	yes	-	441	18
+Baraq Orc Fighter	10	308	120	24	60	8	49	253	44	humanoid	yes	-	294	10
+Baraq Orc Fighter Lieutenant	11	350	129	27	64	9	51	253	44	humanoid	no	-	323	12
+Baranka Guard	22	806	242	67	102	28	82	253	44	undead	yes	-	678	32
+Baranka Escort	21	760	227	62	97	25	79	253	44	undead	yes	-	631	29
+Varikan Brignad Leader	10	958	120	22	62	8	49	253	44	humanoid	yes	Magic	794	27
+Varikan Brigand	7	424	94	17	54	6	42	253	44	humanoid	no	-	383	13
+Stone Giant	13	814	147	30	76	11	56	253	44	humanoid	no	-	710	28
+Stone Soldier	14	437	156	33	80	12	59	253	44	humanoid	no	Magic	412	16
+Stone Guardian	16	500	174	40	87	15	64	253	44	humanoid	no	Magic	471	19
+Vaiss Orc	10	319	120	22	62	8	49	253	44	humanoid	no	-	294	10
+Vaiss Orc Lieutenant	11	350	129	27	64	9	51	253	44	humanoid	no	-	323	12
+Arachnid Hunter	30	1145	365	131	154	58	113	253	44	humanoid	yes	Poison	1134	62
+Discarded Guardian	20	1948	213	57	103	23	76	253	44	humanoid	yes	Magic	1588	70
+Balor Orc Archer	8	244	102	43	57	6	45	227	88	humanoid	yes	-	235	8
+Balor Orc Fighter	10	308	120	24	60	8	49	253	44	humanoid	yes	-	294	10
+Balor Orc Fighter Leader	12	378	138	30	66	10	53	253	44	humanoid	yes	-	353	13
+Balor Orc Lieutenant	11	350	129	27	64	9	51	253	44	humanoid	no	-	323	12
+Boogle Ratman	16	500	174	44	79	15	64	253	44	humanoid	no	-	471	19
+Boogle Ratman Leader	18	571	193	52	86	18	70	253	44	humanoid	no	-	528	23
+Red Fox	2	94	52	9	42	3	33	253	44	humanoid	no	-	59	2
+Redeye Bat	15	468	165	39	75	14	61	253	44	humanoid	yes	-	441	18
+Red Scavenger Spider	16	500	174	44	79	15	64	253	44	humanoid	no	-	471	19
+Crimson Tarantula	15	468	165	39	75	14	61	253	44	humanoid	yes	-	441	18
+Brae Orc Archer	13	840	147	69	71	11	56	227	88	humanoid	yes	-	710	28
+Brae Orc Fighter	15	936	165	39	75	14	61	253	44	humanoid	no	-	821	33
+Brae Orc Chief	17	1607	184	48	82	16	67	253	44	humanoid	yes	Strike	1350	57
+Vrykolakas	15	1404	165	39	75	14	61	253	44	humanoid	yes	Flame	1190	49
+Vrykolakas Wolfkin	9	560	111	21	59	7	46	253	44	humanoid	no	-	492	17
+Blood Fungus	12	378	138	30	66	10	53	253	44	humanoid	no	-	353	13
+Veelan Bugbear	23	856	257	73	106	31	85	253	44	humanoid	no	-	725	35
+Veelan Bugbear Warrior	24	824	272	89	110	34	90	253	44	humanoid	yes	-	772	38
+Hunter Tarantula	16	500	174	44	79	15	64	253	44	humanoid	no	-	471	19
+Silent Horror	16	1002	174	44	79	15	64	253	44	undead	yes	-	876	35
+Young Brown Fox	1	74	44	4	39	2	31	253	44	humanoid	no	-	29	2
+Young Red Fox	1	74	44	4	39	2	31	253	44	humanoid	no	-	29	2
+Young Crimson Fox	1	74	44	4	39	2	31	253	44	humanoid	no	-	29	2
+Sharuk'S Henchmen	26	1848	303	95	132	40	97	253	44	humanoid	no	-	1622	82
+Soul Scavenger	35	4394	446	211	168	88	137	253	44	undead	yes	-	3969	235
+Scavenger Spider	15	468	165	39	75	14	61	253	44	humanoid	yes	-	441	18
+Scavenger Bat	18	571	193	52	86	18	70	253	44	humanoid	yes	-	528	23
+Susceptor	49	2602	799	480	296	247	219	253	44	humanoid	yes	Magic	2881	213
+Sukar Wererat Warrior	25	1747	287	87	127	37	93	253	44	humanoid	no	-	1525	76
+Sukar Wererat Chief	28	3092	334	112	142	48	105	253	44	humanoid	yes	Strike	2626	138
+Scarlet Salamander	17	535	184	48	82	16	67	253	44	humanoid	no	-	500	21
+Scarlet Salamander Elder	18	571	193	52	86	18	70	253	44	humanoid	no	-	528	23
+Sirocco Gargoyle	43	4283	618	342	229	163	180	253	44	humanoid	no	-	4123	279
+Crystalline Beast	18	571	193	52	86	18	70	253	44	humanoid	no	-	528	23
+Akaste Succubus	20	649	213	62	93	23	76	253	44	humanoid	yes	Sleep	588	26
+Akaste Succubus Turen	21	690	227	68	97	25	79	253	44	humanoid	yes	Sleep	631	29
+Akaste Succubus Tilfo	22	733	242	74	102	28	82	253	44	humanoid	yes	Sleep	678	32
+Akaste Bone Warlord	17	535	184	48	82	16	67	253	44	undead	yes	-	500	21
+Akaste Bone Archer	14	437	156	74	80	12	59	227	88	undead	yes	-	412	16
+Akaste Bone Lord	19	610	203	58	90	20	73	253	44	undead	yes	-	560	25
+Akaste Bone Soldier	12	378	138	30	66	10	53	253	44	undead	yes	-	353	13
+Evil Eye	10	340	120	22	60	8	49	253	44	humanoid	no	-	294	10
+Evil Eye Watcher	10	340	120	22	60	8	49	253	44	humanoid	no	-	294	10
+Evil Eye Patroller	14	480	156	33	73	12	59	253	44	humanoid	no	-	412	16
+Evil Eye Lookout	14	480	156	33	73	12	59	253	44	humanoid	no	-	412	16
+Abyss Flyer	27	1952	318	114	125	45	101	253	44	humanoid	no	-	1706	87
+Elf Ghost	20	649	213	57	103	23	76	253	44	undead	yes	HpSuck	588	26
+Elpy	1	74	44	4	39	2	31	253	44	humanoid	no	-	29	2
+Festering Bat	13	407	147	33	69	11	56	253	44	humanoid	no	-	382	15
+Yellow Hornet	24	1650	272	89	110	34	90	253	44	humanoid	no	-	1434	71
+Opal Beast	15	468	165	39	75	14	61	253	44	humanoid	yes	-	441	18
+Ol Mahum Supplier	23	778	257	73	117	31	85	253	44	humanoid	no	-	725	35
+Ol Mahum Recruit	21	690	227	62	107	25	79	253	44	humanoid	no	-	631	29
+Ol Mahum General	26	924	303	104	120	40	97	253	44	humanoid	yes	-	872	44
+Ol Mahum Officer	24	824	272	81	122	34	90	253	44	humanoid	no	-	772	38
+Elder Brown Fox	3	108	60	12	43	3	35	253	44	humanoid	no	-	88	2
+Elder Longtail Fox	3	108	60	12	43	3	35	253	44	humanoid	no	-	88	2
+Elder Wolf	5	156	77	13	49	4	38	253	44	humanoid	no	-	147	4
+Elder Red Fox	3	108	60	12	43	3	35	253	44	humanoid	no	-	88	2
+Elder Prarie Fox	3	108	60	12	43	3	35	253	44	humanoid	no	-	88	2
+Uthanka Pirate	7	424	94	17	54	6	42	253	44	humanoid	no	-	383	13
+Utuku Orc	6	182	85	14	52	5	41	253	44	humanoid	no	-	176	5
+Utuku Orc Archer	8	244	102	43	57	6	45	227	88	humanoid	yes	-	235	8
+Utuku Orc Grunt	7	211	94	17	54	6	42	253	44	humanoid	no	-	206	7
+Will-O-Wisp	15	468	165	39	75	14	61	253	44	humanoid	no	Burn	441	18
+Relic Werewolf	9	542	111	22	57	7	46	253	44	humanoid	no	-	492	17
+Relic Spartoi	21	1519	227	62	97	25	79	253	44	undead	no	-	1173	54
+Kaysha Herald Of Ikaros	30	3436	365	144	140	58	113	253	44	humanoid	yes	HpSuck	2916	159
+Human Ghost	20	649	213	57	103	23	76	253	44	undead	yes	-	588	26
+Oblivion Watcher	17	1178	184	43	82	16	67	253	44	humanoid	no	-	931	39
+Doom Soldier	14	437	156	35	73	12	59	253	44	undead	yes	-	412	16
+Ashen Wolf	4	133	68	12	47	3	37	253	44	humanoid	no	-	118	3
+Zombie Soldier	19	610	203	58	90	20	73	253	44	undead	no	HpSuck	560	25
+Zombie Warrior	22	733	242	74	102	28	82	253	44	undead	yes	HpSuck	678	32
+Zombie Lord Farakelsus	29	3262	349	134	135	53	110	253	44	undead	no	HpSuck	2767	148
+Crimson Spider	15	468	165	39	75	14	61	253	44	humanoid	yes	-	441	18
+Dungeon Spider	15	936	165	39	75	14	61	253	44	humanoid	yes	-	821	33
+Cave Blade Spider	17	1070	184	48	82	16	67	253	44	humanoid	yes	-	931	39
+Dungeon Skeleton Archer	13	407	147	67	76	11	56	227	88	undead	yes	-	382	15
+Dungeon Skeleton	12	378	138	30	66	10	53	253	44	undead	yes	-	353	13
+Prarie Fox	2	90	52	10	41	3	33	253	44	humanoid	no	-	59	2
+Pincer Spider	17	535	184	48	82	16	67	253	44	humanoid	yes	-	500	21
+Tracker Sharuk	28	3402	334	112	129	48	105	253	44	humanoid	yes	Strike	2626	138
+Kaboo Orc	6	182	85	14	52	5	41	253	44	humanoid	no	-	176	5
+Kaboo Orc Archer	8	244	102	43	57	6	45	227	88	humanoid	yes	-	235	8
+Kaboo Orc Grunt	7	211	94	17	54	6	42	253	44	humanoid	no	-	206	7
+Kaboo Orc Fighter	10	308	120	22	67	8	49	253	44	humanoid	yes	-	294	10
+Kaboo Orc Fighter Leader	12	378	138	26	72	10	53	253	44	humanoid	yes	-	353	13
+Kaboo Orc Fighter Lieutenant	11	350	129	25	70	9	51	253	44	humanoid	no	-	323	12
+Kasha Spider	15	468	165	39	75	14	61	253	44	humanoid	no	-	441	18
+Kasha Wolf	4	133	68	12	47	3	37	253	44	humanoid	no	-	118	3
+Kasha Fang Spider	16	500	174	44	79	15	64	253	44	humanoid	no	-	471	19
+Kasha Timber Wolf	6	182	85	14	52	5	41	253	44	humanoid	no	-	176	5
+Kasha Blade Spider	17	535	184	48	82	16	67	253	44	humanoid	no	-	500	21
+Kasha Bear	15	515	165	36	75	14	61	253	44	humanoid	yes	-	441	18
+Blade Bat	10	308	120	24	60	8	49	253	44	humanoid	no	-	294	10
+Bearded Keltir	1	74	44	4	39	2	31	253	44	humanoid	no	-	29	2
+Corpse Scavenger	32	2534	397	168	151	69	122	253	44	undead	no	-	2284	128
+Corpse Candle	17	589	184	43	82	16	67	253	44	humanoid	no	Burn	500	21
+Follower Of Kuroboros	29	2174	349	121	148	53	110	253	44	humanoid	no	-	1909	102
+Priest Of Kuroboros	31	3616	381	142	160	63	118	253	44	humanoid	yes	Poison	3114	173
+Soldier Of Kuroboros	33	2662	413	165	173	75	127	253	44	humanoid	no	-	2428	140
+Kuruka Ratman	16	500	174	40	87	15	64	253	44	humanoid	no	-	471	19
+Kuruka Ratman Hunter	17	535	184	43	91	16	67	253	44	humanoid	no	-	500	21
+Quicksilver Beast	15	468	165	39	75	14	61	253	44	humanoid	yes	-	441	18
+Death Doll	40	1832	531	298	201	131	163	253	44	humanoid	yes	-	2016	130
+Crypt Horror	15	468	165	39	75	14	61	253	44	undead	yes	-	441	18
+Kirunak'S Guards	21	760	227	62	97	25	79	253	44	undead	no	-	631	29
+Tiger Hornet	26	2773	303	95	120	40	97	253	44	humanoid	yes	HpSuck	2352	119
+Turek War Hound	24	1650	272	89	110	34	90	253	44	humanoid	no	-	1434	71
+Turek Orc Warlord	30	2519	365	131	140	58	113	253	44	humanoid	yes	-	2007	110
+Turek Orc Archer	27	2016	318	239	128	45	101	227	88	humanoid	yes	-	1706	87
+Turek Orc Skirmisher	28	2062	334	112	142	48	105	253	44	humanoid	yes	-	1811	95
+Turek Orc Supplier	27	1952	318	103	138	45	101	253	44	humanoid	no	-	1706	87
+Turek Orc Footman	26	1908	303	99	124	40	97	253	44	humanoid	no	-	1622	82
+Turek Orc Sentinel	25	1804	287	90	119	37	93	253	44	humanoid	no	-	1525	76
+Turek Orc Shaman	29	2174	349	121	148	53	110	253	44	humanoid	no	-	1909	102
+Twink Puma	15	468	165	39	75	14	61	253	44	humanoid	yes	-	441	18
+Farakelsus Zombie	26	1848	303	104	120	40	97	253	44	undead	no	HpSuck	1622	82
+Dread Soldier	14	437	156	35	73	12	59	253	44	undead	yes	-	412	16
+Ruin Bat	20	649	213	62	93	23	76	253	44	humanoid	no	-	588	26
+Ruin Imp	17	535	184	48	82	16	67	253	44	humanoid	no	-	500	21
+Ruin Imp Elder	21	690	227	68	97	25	79	253	44	humanoid	yes	-	631	29
+Plunder Tarantula	17	535	184	48	82	16	67	253	44	humanoid	yes	-	500	21
+Spore Fungus	9	271	111	22	57	7	46	253	44	humanoid	no	-	265	9
+Puma	12	378	138	30	66	10	53	253	44	humanoid	no	-	353	13
+Pitchstone Golem	19	610	203	51	99	20	73	253	44	humanoid	no	Magic	560	25
+Field Stalker	35	1464	446	211	168	88	137	253	44	humanoid	yes	Burn	1470	87
+Skeleton Knight	32	1393	397	153	151	69	122	253	44	undead	yes	HpSuck	1229	69
+Shield Skeleton	15	468	165	39	75	14	61	253	44	undead	no	-	441	18
+Skeleton Infantryman	16	500	174	44	79	15	64	253	44	undead	no	-	471	19
+Skeleton Sentinel	14	437	156	35	73	12	59	253	44	undead	yes	-	412	16
+Skeleton Hunter	12	378	138	30	66	10	53	253	44	undead	yes	-	353	13
+Skeleton Hunter Archer	13	407	147	67	76	11	56	227	88	undead	yes	-	382	15
+Skeleton Pikeman	27	976	318	114	125	45	101	253	44	undead	yes	-	919	47
+Pirate Captain Uthanka	10	928	120	22	67	8	49	253	44	humanoid	yes	Magic	794	27
+Whinstone Golem	14	437	156	33	80	12	59	253	44	humanoid	no	-	412	16
+White Fang	10	958	120	22	62	8	49	253	44	humanoid	yes	Magic	794	27
+Wasteland Basilisk	33	2662	413	165	173	75	127	253	44	humanoid	no	-	2428	140
+Grey Wolf Elder	7	424	94	17	54	6	42	253	44	humanoid	no	-	383	13
+Gray Wolf	4	133	68	12	47	3	37	253	44	humanoid	no	-	118	3
+Obsidian Golem	15	468	165	36	83	14	61	253	44	humanoid	no	-	441	18
+White Wolf	4	128	68	13	45	3	37	253	44	humanoid	yes	-	118	3
+Goblin Lord	13	407	147	33	69	11	56	253	44	humanoid	no	-	382	15
+Young Brown Keltir	1	77	44	4	40	2	31	253	44	animal	no	-	29	2
+Young Red Keltir	1	77	44	4	40	2	31	253	44	animal	no	-	29	2
+Young Prarie Keltir	1	77	44	4	40	2	31	253	44	animal	no	-	29	2
+Brown Keltir	2	94	52	9	42	3	33	253	44	animal	no	-	59	2
+Longtail Keltir	2	94	52	9	42	3	33	253	44	animal	no	-	59	2
+Red Keltir	2	94	52	9	42	3	33	253	44	animal	no	-	59	2
+Prarie Keltir	2	94	52	9	42	3	33	253	44	animal	no	-	59	2
+Elder Brown Keltir	3	112	60	11	45	3	35	253	44	animal	no	-	88	2
+Elder Red Keltir	3	112	60	11	45	3	35	253	44	animal	no	-	88	2
+Elder Prarie Keltir	3	112	60	11	45	3	35	253	44	animal	no	-	88	2
+Elder Longtail Keltir	3	112	60	11	45	3	35	253	44	animal	no	-	88	2
+Gemstone Beast	12	378	138	26	72	10	53	253	44	beast	no	-	353	13
+Ore Bat	17	535	184	48	82	16	67	253	44	beast	yes	-	500	21
+Skeleton Longbowman	19	610	203	129	90	20	73	227	88	undead	yes	-	560	25
+Ghost	20	649	213	62	93	23	76	253	44	undead	yes	-	588	26
+Elder Keltir	3	108	60	12	43	3	35	253	44	animal	no	-	88	2
+Young Keltir	1	77	44	4	40	2	31	253	44	animal	no	-	29	2
+Turek Orc Elder	34	1397	430	178	179	81	132	253	44	humanoid	yes	HpSuck	1387	81
+Ol Mahum Reserve	23	778	257	73	117	31	85	253	44	humanoid	no	-	725	35
+Ol Mahum Deserter	23	803	257	76	109	31	85	253	44	humanoid	yes	-	725	35
+Ol Mahum Lord	34	2794	430	196	162	81	132	253	44	monster	yes	Burn	2578	151
+Guardian Basilisk	36	1584	463	213	181	96	141	253	44	monster	no	-	1555	94
+Road Scavenger	37	1657	480	228	187	104	146	253	44	humanoid	no	-	1643	101
+Fettered Soul	38	3468	497	245	194	112	152	253	44	undead	yes	-	3220	201
+Windsus	39	1812	514	262	200	121	157	253	44	beast	no	-	1825	116
+Grandis	40	1891	531	281	207	131	163	253	44	humanoid	yes	-	1920	124
+Giant Fungus	40	1891	531	281	207	131	163	253	44	plant	no	Root	1920	124
+Giant Monstereye	41	1912	560	319	208	140	168	253	44	construct	no	Root	2017	132
+Dire Wyrm	42	1992	589	311	237	152	174	253	44	dragon	yes	-	2117	141
+Rotting tree	43	2074	618	332	245	163	180	253	44	undead	no	Root	2219	150
+Rotting Golem	44	2159	648	354	252	175	186	253	44	construct	no	Magic	2575	176
+Trisalim Spider	45	2244	677	414	237	188	193	253	44	beast	no	-	2430	169
+Trisalim Tarantula	46	2332	707	401	270	202	199	253	44	beast	yes	Poison	2666	189
+Spore Zombie	47	2419	738	468	252	216	205	253	44	undead	no	MpSuck	2651	190
+Manashen Gargoyle	40	1832	531	298	201	131	163	253	44	construct	no	Stun	2128	138
+Enchanted Monstereye	41	1912	560	319	208	140	168	253	44	construct	yes	Root	2017	132
+Enchanted Stone Golem	42	1992	589	342	214	152	174	253	44	construct	no	Magic	2346	157
+Enchanted Iron Golem	43	2074	618	332	245	163	180	253	44	construct	no	Magic	2459	167
+Enchanted Gargoyle	44	2159	648	389	230	175	186	253	44	construct	no	Stun	2575	176
+Formor	45	2316	677	389	245	188	193	253	44	beast	no	-	2430	169
+Formor Elder	46	2406	707	414	253	202	199	253	44	beast	no	-	2539	180
+Tarlk Bugbear	47	2498	738	440	261	216	205	253	44	humanoid	yes	-	2651	190
+Tarlk Bugbear Warrior	48	2591	768	466	269	231	211	253	44	humanoid	no	-	2765	202
+Tarlk Bugbear High Warrior	49	2602	799	528	269	247	219	253	44	humanoid	no	-	2881	213
+Tarlk Basilisk	50	2694	830	508	305	263	225	253	44	beast	no	-	3000	226
+Elder Tarlk Basilisk	51	2788	861	593	285	281	231	253	44	beast	yes	-	3121	238
+Oel Mahum Warrior	54	3074	955	698	311	339	253	253	44	humanoid	no	-	3499	279
+Oel Mahum Witch Doctor	55	3172	987	670	352	360	260	253	44	humanoid	no	Magic	3630	293
+Leto Lizardman	35	1512	446	197	174	88	137	253	44	humanoid	no	-	1470	87
+Leto Lizardman Archer	36	1535	463	459	192	96	141	227	88	humanoid	yes	-	1555	94
+Leto Lizardman Soldier	37	1657	480	228	187	104	146	253	44	humanoid	yes	-	1643	101
+Leto Lizardman Warrior	38	1680	497	260	187	112	152	253	44	humanoid	no	-	1733	108
+Leto Lizardman Shaman	39	1754	514	279	194	121	157	253	44	humanoid	no	HpSuck	1825	116
+Leto Lizardman Overlord	40	1832	531	272	221	131	163	253	44	humanoid	yes	-	1920	124
+Timak Orc	40	1832	531	298	201	131	163	253	44	humanoid	no	-	1920	124
+Timak Orc Archer	41	1912	560	647	228	140	168	227	88	humanoid	yes	Strike	2404	157
+Timak Orc Soldier	42	2056	589	320	222	152	174	253	44	humanoid	yes	Strike	2346	157
+Timak Orc Warrior	43	2141	618	342	229	163	180	253	44	humanoid	no	Haste	2459	167
+Timak Orc Shaman	44	2159	648	389	230	175	186	253	44	humanoid	no	Ice	2323	159
+Timak Orc Overlord	45	2244	677	414	237	188	193	253	44	humanoid	no	Totems	2693	188
+Fline	45	2244	677	376	261	188	193	253	44	elemental	no	Magic	2430	169
+Liele	46	2332	707	401	270	202	199	253	44	elemental	no	Magic	2539	180
+Valley Treant	47	2419	738	425	278	216	205	253	44	elemental	no	Root	2651	190
+Satyr	48	2509	768	452	287	231	211	253	44	elemental	yes	-	2765	202
+Unicorn	49	2602	799	480	296	247	219	253	44	elemental	no	-	2881	213
+Forest Runner	50	2694	830	508	305	263	225	253	44	elemental	no	-	3000	226
+Fline Elder	51	2788	861	593	285	281	231	253	44	elemental	no	Magic	3121	238
+Liele Elder	52	2882	892	626	294	300	239	253	44	elemental	yes	Magic	3245	251
+Valley treant Elder	53	2977	923	662	303	318	245	253	44	elemental	no	Root	3371	265
+Satyr Elder	54	3074	955	698	311	339	253	253	44	elemental	no	-	3499	279
+Unicorn Elder	55	3172	987	736	321	360	260	253	44	elemental	no	Magic	3630	293
+Karul Bugbear	40	1832	531	298	201	131	163	253	44	humanoid	no	Stun	2128	138
+Tamlin Orc	41	1973	560	301	214	140	168	253	44	humanoid	no	-	2017	132
+Tamlin Orc Archer	42	2056	589	713	222	152	174	227	88	humanoid	yes	Strike	2523	168
+Kronbe Spider	43	2074	618	332	245	163	180	253	44	beast	yes	-	2219	150
+Lakin	44	2159	648	389	230	175	186	253	44	humanoid	no	Stun	2575	176
+Weird Drake	45	2316	677	389	245	188	193	253	44	dragon	yes	Flame	2430	169
+Kuran Kobold	27	976	318	103	138	45	101	253	44	humanoid	no	-	919	47
+Kuran Kobold Warrior	28	1031	334	123	129	48	105	253	44	humanoid	no	-	972	51
+Patin Archer	29	1122	349	280	139	53	110	227	88	undead	yes	-	1026	55
+Lakin Salamander	30	2290	365	131	154	58	113	253	44	elemental	no	-	2007	110
+Sentinel Of Water	31	1205	381	156	145	63	118	253	44	construct	no	-	1153	64
+Dre Vanul Warrior	32	1267	397	168	151	69	122	253	44	demonic	yes	HpSuck	1229	69
+Salamander Rowin	33	2662	413	165	173	75	127	253	44	elemental	yes	-	2428	140
+Lafi Lizardman	27	1008	318	107	128	45	101	253	44	humanoid	no	-	919	47
+Lafi Lizardman Scout	28	1031	334	249	142	48	105	227	88	humanoid	yes	-	972	51
+Ritmal Swordsman	29	1122	349	126	139	53	110	253	44	undead	yes	-	1026	55
+Lakin Undine	30	2290	365	144	140	58	113	253	44	elemental	no	Magic	2007	110
+Sentinel Of Water	31	1205	381	142	160	63	118	253	44	construct	no	-	1153	64
+Kanil Succubus	32	1267	397	168	151	69	122	253	44	demonic	yes	HpSuck	1229	69
+Rowin Undine	33	2662	413	165	173	75	127	253	44	elemental	yes	HpSuck	2428	140
+Cave Beast	61	3764	1184	991	378	504	306	253	44	humanoid	no	Might	4688	413
+Death Wave	62	3863	1217	1038	388	531	315	253	44	construct	no	Shield	4843	432
+Malruk Soldier	63	3962	1251	1085	398	559	322	253	66	undead	yes	Strike	5517	497
+Plando	64	4061	1285	2291	448	588	331	227	88	construct	yes	Strike	5857	536
+Cave Howler	65	4574	1319	1075	417	617	338	253	44	construct	no	Haste	5619	523
+Malruk Knight	66	4255	1353	1121	471	649	347	253	44	undead	no	Stun	5793	546
+Malruk Berserker	67	4351	1388	1286	438	680	356	253	44	undead	yes	Strike	5970	569
+Malruk Lord	68	4590	1423	1256	463	713	364	253	44	undead	yes	Bleed	5826	563
+Limal Karinness	69	4541	1458	1391	459	745	373	253	44	demonic	yes	Sleep	5713	559
+Karik	70	4634	1493	1444	562	779	381	253	66	demonic	yes	Root	5880	583
+Taik Orc	40	1891	531	281	207	131	163	253	44	humanoid	no	-	1920	124
+Taik Orc Archer	41	1912	560	647	228	140	168	227	88	humanoid	yes	Strike	2404	157
+Taik Orc Warrior	42	1992	589	342	214	152	174	253	44	humanoid	no	Strike	2346	157
+Taik Orc Shaman	43	2074	618	332	245	163	180	253	44	humanoid	no	Heal	2459	167
+Taik Orc Captain	44	2374	648	354	230	175	186	253	44	humanoid	yes	Strike	2575	176
+Carinkain	45	2244	677	414	237	188	193	253	44	construct	yes	MpSuck	2430	169
+Forrest of Mirror Ghost	46	2332	707	440	245	202	199	253	44	construct	yes	-	2687	191
+Forrest of Mirror Ghost	47	2419	738	468	252	216	205	253	44	construct	yes	-	2805	201
+Forrest of Mirror Ghost	48	2509	768	498	261	231	211	253	44	construct	yes	-	2926	214
+Mirror	49	2861	799	480	269	247	219	253	44	beast	no	Cancel	3770	279
+Harit Lizardman	50	2780	830	525	286	263	225	253	44	humanoid	no	-	3000	226
+Harit Lizardman Grunt	51	2878	861	556	295	281	231	253	44	humanoid	no	Strike	3459	264
+Harit Lizardman Archer	52	2882	892	1267	324	300	239	227	88	humanoid	yes	HawkEye	3299	256
+Harit Lizardman Warrior	53	2977	923	662	303	318	245	253	44	humanoid	no	Stun	3736	294
+Harit Lizardman Shaman	54	3074	955	698	311	339	253	253	44	humanoid	no	Poison	3674	293
+Harit Lizardman Matriarch	55	3488	987	670	321	360	260	253	66	humanoid	yes	Strike	4205	338
+Halingka	55	3172	987	736	321	360	260	253	44	animal	yes	Bleed	3812	308
+Yintzu	56	3269	1019	776	330	382	268	253	44	construct	yes	Strike	3763	309
+Paliote	57	3367	1052	816	408	404	275	253	44	construct	no	Ice	3899	324
+Hamrut	58	3467	1084	859	348	428	283	253	44	beast	no	Poison	4239	358
+Kranrot	59	3565	1117	902	358	452	290	253	44	beast	yes	Stun	4630	396
+Gamlin	60	3665	1150	860	405	477	299	253	44	construct	no	-	4320	375
+Leogul	61	3764	1184	901	415	504	306	253	44	construct	no	PAtk	4726	417
+Lesser Giant	61	3886	1184	930	390	504	306	253	44	giant	no	-	4465	393
+Lesser Giant Soldier	62	3988	1217	973	400	531	315	253	44	giant	no	Stun	5113	456
+Lesser Giant Shooter	63	4090	1251	2263	410	559	322	227	88	giant	yes	-	4763	430
+Lesser Giant Scout	63	4090	1251	2263	410	559	322	227	132	giant	yes	Magic	5795	522
+Lesser Giant Mage	64	4061	1285	1134	408	588	331	253	44	giant	no	Poison	5079	464
+Lesser Giant Elder	65	4158	1319	1184	417	617	338	253	44	giant	yes	Bers	5070	471
+Grave Wanderer	45	2316	677	389	245	188	193	253	44	undead	no	Root	2430	169
+Archer of Greed	46	2332	707	981	245	202	199	227	88	undead	yes	Stun	3026	214
+Hatar Ratman Theif	47	2498	738	440	261	216	205	253	44	humanoid	no	Strike	2938	211
+Hatar Ratman Boss	48	2591	768	466	269	231	211	253	44	humanoid	no	Strike	3064	224
+Hatar Hanishee	49	2602	799	528	269	247	219	253	44	beast	no	Root	2881	213
+Deprive	50	2694	830	560	278	263	225	253	44	beast	yes	MpSuck	3000	226
+Taik Orc Supply	51	2788	861	539	315	281	231	253	44	humanoid	no	Strike	3459	264
+Taik Orc Seeker	52	2882	892	626	294	300	239	253	44	humanoid	no	Stun	3245	251
+Farcran	53	3074	923	621	313	318	245	253	44	beast	no	Stun	3736	294
+Grave Guard	54	3074	955	634	343	339	253	253	44	construct	yes	Flame	3499	279
+Taik Orc Supply Leader	55	3172	987	736	321	360	260	253	44	humanoid	yes	Stun	4023	325
+Crimson Drake	61	3764	1184	991	378	504	306	253	44	dragon	yes	Magic	4465	393
+Kadios	62	3863	1217	1038	388	531	315	253	44	beast	yes	Silence	4613	411
+Trives	63	3962	1251	986	437	559	322	253	44	construct	yes	Root	4763	430
+Falibati	64	4466	1285	1031	408	588	331	253	44	construct	yes	Sleep	4915	450
+Doom Knight	65	4158	1319	1184	417	617	338	253	44	undead	yes	Strike	5619	523
+Tairim	50	2963	830	508	278	263	225	253	44	construct	no	Shield	3150	237
+Judge of Marsh	51	2788	861	593	285	281	231	253	44	undead	yes	S.Fire	3121	238
+Tulben	52	2975	892	588	304	300	239	253	44	beast	no	Bleed	3407	264
+Punishment of Undead	53	2977	923	662	303	318	245	253	44	undead	no	Flame	3371	265
+Marsh Stalker	54	3174	955	655	321	339	253	253	44	construct	no	S.Fire	3499	279
+Marsh Drake	55	3172	987	736	321	360	260	253	44	dragon	yes	Magic	3630	293
+Vanor Silenos	45	2316	677	389	245	188	193	253	44	humanoid	no	Stun	2693	188
+Vanor Silenos Grunt	46	2406	707	414	253	202	199	253	44	humanoid	no	Stun	2814	200
+Vanor Silenos Scout	47	2419	738	425	278	216	205	253	44	humanoid	yes	Stun	3225	231
+Vanor Silenos Warrior	48	2509	768	498	261	231	211	253	44	humanoid	no	Stun	3249	238
+Vanor Silenos Shaman	49	2602	799	528	269	247	219	253	44	humanoid	no	Flame	3025	224
+Vanor Silenos Cheiftain	50	2963	830	508	278	263	225	253	44	humanoid	no	Heal	3000	226
+Revenant of Sir Calibus	40	5675	531	281	207	131	163	253	44	undead	yes	Strike	5184	335
+Squire of Calibus	35	3024	446	197	174	88	137	253	44	undead	no	-	2732	162
+Demon Tempest	38	5202	497	245	194	112	152	253	44	undead	yes	HpSuck	4679	292
+Revenant of The Executed	33	2748	413	171	162	75	127	253	44	undead	no	-	2428	140
+Red Eye Leader Trakia	40	5675	531	281	207	131	163	253	44	humanoid	yes	Strike	5184	335
+Red Eye Guards	33	2748	413	171	162	75	127	253	44	humanoid	no	-	2428	140
+Nurka's Messenger	38	5202	497	245	194	112	152	253	44	humanoid	yes	Strike	4679	292
+Messenger Escort	33	2748	413	171	162	75	127	253	44	humanoid	no	-	2428	140
+Stakato Queen Zyrnna	43	6425	618	342	229	163	180	253	44	humanoid	yes	Poison	5991	405
+Marsh Stakato Noble	38	3468	497	245	194	112	152	253	44	humanoid	no	-	3220	201
+Titan's Creation, Premo Prime	43	6425	618	342	229	163	180	253	44	construct	yes	-	5991	405
+Titan's Creation, Bemos	38	3468	497	245	194	112	152	253	44	construct	no	-	3220	201
+Archon Susceptor	58	10736	1084	806	360	428	283	253	44	construct	yes	-	10899	921
+Gustos Susceptor	55	6548	987	691	331	360	260	253	44	construct	no	-	6746	545
+Eye of Beleth	35	4537	446	197	174	88	137	253	44	construct	yes	-	3969	235
+Follower of The Eye	33	2748	413	171	162	75	127	253	44	construct	no	-	2428	140
+Adherent of Antharas, Skyla	41	5920	560	301	214	140	168	253	44	humanoid	yes	Strike	5446	356
+Skyla's Retainer	39	3624	514	262	200	121	157	253	44	humanoid	no	-	3392	216
+Corsair Captain Kylon	43	6425	618	342	229	163	180	253	44	undead	yes	-	5991	405
+Kylon's Pirate	38	3468	497	245	194	112	152	253	44	undead	no	-	3220	201
+Cave Servant Lord Ishka	66	13180	1353	1158	441	649	347	253	44	undead	yes	-	14113	1328
+Cave Servant General	63	8180	1251	1017	410	559	322	253	44	undead	no	-	8851	800
+Scavenger Leader, Rinoket	48	7774	768	466	269	231	211	253	44	humanoid	yes	Strike	7465	545
+Rinoket's Henchman	45	4633	677	389	245	188	193	253	44	humanoid	no	-	4516	314
+Necrosentinel Guard	40	5675	531	281	207	131	163	253	44	undead	yes	-	5184	335
+Necrosentinel Archer	35	3024	446	440	174	88	137	227	88	undead	yes	-	2732	162
+Envoy of Antharas, Nakondas	42	6169	589	320	222	152	174	253	44	dragon	yes	-	5715	381
+Nakonda's Slave	37	3316	480	228	187	104	146	253	44	dragon	no	-	3053	188
+Dread Avenger Kraven	48	7774	768	466	269	231	211	253	44	undead	yes	-	7465	545
+Dread Panther	45	4633	677	389	245	188	193	253	44	beast	no	-	4516	314
+Handmaiden of Orfen	48	7774	768	466	269	231	211	253	44	beast	yes	Poison	7465	545
+Trisalim Escort	47	4997	738	440	261	216	205	253	44	beast	no	-	4926	353
+Fairy Queen Timiniel	61	11658	1184	930	390	504	306	253	44	elemental	yes	Stun	12056	1061
+Timiniel's Escort	55	6548	987	691	331	360	260	253	44	elemental	no	-	6746	545
+Betrayer of Urutu Freki	25	2706	287	90	119	37	93	253	44	undead	yes	-	2213	111
+Freki's Bloodseeker Bat	22	1514	242	70	105	28	82	253	44	undead	no	-	1258	60
+Centaurus	41	1912	560	319	208	140	168	253	44	humanoid	no	-	2017	132
+Crimson Bear	37	1606	480	243	181	104	146	253	44	beast	yes	-	1643	101
+Devastator	38	1680	497	260	187	112	152	253	44	beast	yes	-	1733	108
+Saber Toothed Tiger	36	1535	463	226	175	96	141	253	44	animal	yes	-	1555	94
+Liviona	39	1754	514	254	213	121	157	253	44	construct	yes	-	1825	116
+Heltor Silenos	40	1891	531	281	207	131	163	253	44	humanoid	no	-	1920	124
+Heltor Silenos Chieftain	45	2468	677	376	237	188	193	253	44	humanoid	no	-	2430	169
+Heltor Silenos Hunter	41	1912	560	291	228	140	168	253	44	humanoid	no	-	2017	132
+Heltor Silenos Shaman	44	2159	648	389	230	175	186	253	44	humanoid	no	-	2323	159
+Heltor Silenos Warrior	42	1992	589	342	214	152	174	253	44	humanoid	yes	-	2117	141
+Ketra Orc	50	2780	830	525	286	263	225	253	44	humanoid	no	-	3000	226
+Ketra Orc Archer	51	2788	861	1317	285	281	231	227	88	humanoid	yes	-	3121	238
+Ketra Orc Overload	54	3074	955	634	343	339	253	253	44	humanoid	yes	-	3499	279
+Ketra Orc Shaman	53	3276	923	601	303	318	245	253	44	humanoid	no	-	3371	265
+Ketra Orc Warrior	52	2882	892	626	294	300	239	253	44	humanoid	yes	-	3245	251
+Kobold Looter Bepook	13	1220	147	33	69	11	56	253	11	humanoid	yes	-	1031	40
+Bepook's Pet	10	618	120	24	60	8	49	253	44	animal	no	-	547	19
+Rampage Golem Leader, Talos	25	2621	287	97	115	37	93	253	44	construct	yes	-	2213	111
+Rampage Golem	22	1468	242	74	102	28	82	253	44	construct	no	-	1258	60
+Mystical Weaver	22	733	242	67	112	28	82	253	44	construct	no	-	678	32
+Howler	25	874	287	87	127	37	93	253	44	undead	yes	-	819	41
+Red Eye Vampire Bat	22	733	242	74	102	28	82	253	44	animal	no	-	678	32
+Wild Desperado	35	1464	446	191	186	88	137	253	44	bug	yes	-	1825	108
+Wild Desperado Cohort	31	1205	381	156	145	63	118	253	44	bug	no	-	1432	79
+Roxide	32	1267	397	168	151	69	122	253	44	demonic	yes	-	1526	86
+Roxide Cohort	29	1195	349	121	135	53	110	253	44	undead	no	-	1270	68
+Death Fire	32	1267	397	168	151	69	122	253	44	demonic	yes	-	1526	86
+Fire Archer	29	1087	349	271	148	53	110	227	88	undead	yes	-	1270	68
+Snipe	44	2159	648	389	230	175	186	253	44	beast	yes	-	2885	197
+Snipe Cohort	42	1992	589	311	237	152	174	253	44	beast	no	-	2628	175
+Dark Lord	50	2963	830	508	278	263	225	253	44	demonic	yes	-	4100	310
+Dark Knight	48	2509	768	498	261	231	211	253	44	demonic	no	-	3779	277
+Talakin	30	1259	365	131	140	58	113	253	44	humanoid	yes	-	1341	73
+Talakin Archer	28	1031	334	249	142	48	105	227	88	humanoid	yes	-	1207	63
+Talakin Raider	27	976	318	114	125	45	101	253	44	humanoid	no	-	1137	58
+Dragon Bearer Chief	49	2861	799	480	269	247	219	253	44	undead	yes	-	3962	293
+Dragon Bearer Warrior	48	2509	768	498	261	231	211	253	44	undead	no	Stun	3802	278
+Dragon Bearer Archer	47	2419	738	948	278	216	205	227	88	undead	yes	Strike	3910	281
+Pytan	69	4541	1458	1391	459	745	373	253	44	demonic	yes	-	7808	766
+Pytan Knight	68	4447	1423	1217	492	713	364	253	44	undead	no	Bleed	8000	771
+Lord of Plain	40	1832	531	272	221	131	163	253	44	humanoid	no	-	2624	170
+Shaman of Plain	39	1931	514	254	194	121	157	253	44	humanoid	no	-	2494	159
+Warrior of Plain	38	1680	497	260	187	112	152	253	44	humanoid	no	-	2368	148
+Scout of Plain	36	1535	463	459	192	96	141	227	88	humanoid	no	-	2125	129
+Timak Orc Troop Leader	45	2244	677	414	237	188	193	253	44	humanoid	yes	Strike	3686	257
+Timak Orc Troop Shaman	44	2159	648	389	230	175	186	253	44	humanoid	no	Slow	3175	218
+Timak Orc Troop Warrior	43	2074	618	365	223	163	180	253	44	humanoid	no	Haste	3365	228
+Timak Orc Troop Archer	41	1912	560	712	208	140	168	227	88	humanoid	yes	Strike	3295	215
+Barif	64	4061	1285	1031	448	588	331	253	44	giant	yes	Poison	6922	635
+Barif's Pet	61	3764	1184	991	378	504	306	253	44	construct	no	AtkSpd	6102	538
+Konzur Bat Lord	54	3382	955	634	311	339	253	253	44	beast	yes	Bleed	5045	401
+Konzur Bat 	52	3170	892	570	294	300	239	253	44	beast	no	Bleed	4678	361
+Bugbear Raider	17	535	184	48	82	16	67	253	44	monster	no	-	500	21
+Dark Succubus	20	670	213	58	97	23	76	253	44	demonic	no	-	588	26
+Hunter Bear	14	437	156	35	73	12	59	253	44	animal	no	-	412	16
+Ragna Orc Overlord	39	1754	514	254	194	121	157	253	44	humanoid	no	-	1825	116
+Ragna Orc Seer	39	1754	514	254	194	121	157	253	11	humanoid	no	-	1825	116
+Bloody Axe Elite	35	1612	446	191	168	88	137	253	44	humanoid	yes	-	1470	87
+Delu Lizardman Shaman	35	1464	446	211	168	88	137	253	11	humanoid	no	Root	1470	87
+Ol Mahum Novice	17	552	184	45	85	16	67	253	44	humanoid	yes	-	500	21
+Orc Marksman	10	319	120	52	62	8	49	227	88	humanoid	yes	-	0	0
+Orc Fight Leader	12	390	138	27	68	10	53	253	44	humanoid	no	-	0	0
+Spirit Of Mirrors	9	280	111	21	59	7	46	253	44	humanoid	no	-	0	0
+Spirit Of Mirrors	10	319	120	22	62	8	49	253	44	humanoid	no	-	0	0
+Spirit Of Mirrors	11	362	129	25	66	9	51	253	44	humanoid	no	-	0	0
+Bhato Bloodspear	11	362	129	25	66	9	51	253	44	humanoid	no	-	0	0
+Tanuki Skullcrusher	11	362	129	25	66	9	51	253	44	humanoid	no	-	0	0
+Kraacul Blackskull	11	362	129	25	66	9	51	253	44	humanoid	no	-	0	0
+Taarq Blackskull	11	362	129	25	66	9	51	253	44	humanoid	no	-	0	0
+Nerkas	22	757	242	70	105	28	82	253	44	humanoid	no	-	0	0
+Plague Zombie	14	450	156	34	75	12	59	253	44	humanoid	no	HpSuck	0	0
+Orc Warrior	10	319	120	22	62	8	49	253	44	humanoid	no	-	0	0
+Orc Warrior Leader	11	362	129	25	66	9	51	253	44	humanoid	no	-	0	0
+Varool Foulclaw	20	670	213	58	97	23	76	253	44	humanoid	no	-	0	0
+Kirunak	22	757	242	70	105	28	82	253	44	humanoid	no	-	0	0
+Merkenis	22	757	242	70	105	28	82	253	44	humanoid	no	-	0	0
+Undead Priest	17	535	184	48	82	16	67	253	44	undead	no	HpSuck	0	0
+Phantom Of Salamander	17	535	184	48	82	16	67	253	44	monster	yes	-	0	0
+Water Seer	17	535	184	48	82	16	67	253	44	monster	yes	-	0	0
+Ol Mahum Sentry	17	535	184	48	82	16	67	253	44	monster	no	-	0	0
+Lizardman Warrior	13	407	147	39	69	11	56	217	11	monster	yes	-	0	0
+Lizardman Scout	12	378	138	30	66	10	53	253	44	monster	yes	-	0	0
+Lizardman	11	350	129	32	64	9	51	217	11	monster	yes	-	0	0
+Tamil	19	610	203	58	90	20	73	253	11	monster	yes	-	0	0
+Calpico	13	407	147	33	69	11	56	253	44	monster	yes	-	0	0
+Calpicos Goons	10	308	120	24	60	8	49	253	44	monster	no	-	0	0
+Cat'S Eye Bandit	15	482	165	32	78	14	61	289	88	humanoid	no	-	0	0
+Baranka Messenger	12	378	138	26	72	10	53	253	44	humanoid	yes	-	0	0
+Orc Escort	12	378	138	26	72	10	53	253	44	humanoid	no	-	0	0
+Varangka'S Tracker	11	350	129	25	70	9	51	253	44	animal	yes	-	0	0
+Kasha Bear Totem Spirit	17	535	184	43	91	16	67	253	44	demonic	yes	-	0	0
+Kuruka Ratman Leader	18	571	193	47	86	18	70	253	44	humanoid	yes	-	0	0
+Sue	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Wanuk	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Chewba	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Heitafu	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Picubo	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Bumbum	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Minsku	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Chichi	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Umbar	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Zakan	20	649	213	57	93	23	76	253	44	humanoid	no	Orc Betrayer	0	0
+Durka Spirit	18	590	193	50	88	18	70	253	44	demonic	yes	-	0	0
+Honey Bear	17	535	184	48	82	16	67	253	44	animal	no	-	0	0
+Uoph	11	362	129	25	66	9	51	253	44	humanoid	no	Kaboo Chief	0	0
+Kracha	11	362	129	25	66	9	51	253	44	humanoid	no	Kaboo Chief	0	0
+Batoh	11	362	129	25	66	9	51	253	11	humanoid	no	Kaboo Chief	0	0
+Tanukia	8	244	102	18	57	6	45	253	44	humanoid	yes	Kaboo Chief	0	0
+Tanukias Warhound	4	133	68	12	47	3	37	253	44	animal	no	-	0	0
+Turel	11	362	129	25	66	9	51	253	44	humanoid	no	Kaboo Chief	0	0
+Roko	8	244	102	43	57	6	45	227	88	humanoid	yes	Kaboo Chief	0	0
+Rokos Warhound	4	133	68	12	47	3	37	253	44	animal	no	Quest Monster	0	0
+Kamut	11	362	129	25	66	9	51	253	11	humanoid	no	Kaboo Chief	0	0
+Murtika	8	244	102	43	57	6	45	227	88	humanoid	yes	Kaboo Chief	0	0
+Murtikas Warhound	4	133	68	12	47	3	37	253	44	animal	no	-	0	0
+Tumran Orc Brigand	11	362	129	25	66	9	51	253	44	humanoid	no	-	0	0
+Unicorn Of Eva	30	1145	365	144	140	58	113	253	44	elemental	no	-	0	0
+Trimden Lord	39	1812	514	262	200	121	157	253	44	bug	no	-	0	0
+Black Willow Lurker	39	1812	514	262	200	121	157	253	44	undead	no	-	0	0
+Pashika Sonof Voltar	37	1657	480	228	187	104	146	253	44	humanoid	yes	-	0	0
+Vultus Sonof Voltar	37	1657	480	228	187	104	146	253	44	humanoid	yes	-	0	0
+Enku Orc Overlord	33	1331	413	181	157	75	127	253	44	humanoid	yes	-	0	0
+Makum Bugbear Thug	37	1606	480	243	181	104	146	253	44	humanoid	yes	-	0	0
+Revenant Of Tantos Chief	39	1931	514	254	194	121	157	253	44	undead	no	-	0	0
+Harpy Martriarch	34	1441	430	184	168	81	132	253	44	beast	yes	-	0	0
+Road Collector	36	1584	463	213	181	96	141	253	44	humanoid	yes	-	0	0
+Serpent Demon Kadesh	41	1973	560	301	214	140	168	253	44	undead	no	-	0	0
+Neer Bodyguard	33	1331	413	181	157	75	127	253	44	undead	yes	-	0	0
+Delu Chief Kalkis	37	1606	480	243	181	104	146	253	44	humanoid	yes	-	0	0
+Delu Lizarman Assassin	36	1535	463	226	175	96	141	253	44	humanoid	yes	-	0	0
+Singing Flower Phantasm	44	2159	648	354	230	175	186	253	44	construct	no	-	0	0
+Singing Flower Nightmare	44	2159	648	354	230	175	186	253	44	construct	no	-	0	0
+Singing Flower Darkling	44	2159	648	354	230	175	186	253	44	construct	no	-	0	0
+Ghost Fire	42	2056	589	320	222	152	174	253	44	construct	no	-	0	0
+Nameless Revenant	38	1680	497	260	187	112	152	253	44	undead	no	HpSuck	0	0
+Skeletal Mercenary	39	1754	514	279	194	121	157	253	44	undead	no	-	0	0
+Drevanul Prince Zeruel	42	1992	589	342	214	152	174	253	44	undead	no	-	0	0
+Pako The Cat	38	1734	497	245	194	112	152	253	44	elemental	no	-	0	0
+Unicorn Racer	38	1734	497	245	194	112	152	253	44	elemental	no	-	0	0
+Shadow Turen	39	1812	514	262	200	121	157	253	44	elemental	no	-	0	0
+Mimi The Cat	39	1812	514	262	200	121	157	253	44	elemental	no	-	0	0
+Unicorn Phantasm	40	1891	531	281	207	131	163	253	44	elemental	no	-	0	0
+Silhouette Tilfo	40	1891	531	281	207	131	163	253	44	demonic	no	-	0	0
+Stenoa Gorgon Queen	37	1606	480	243	181	104	146	253	44	beast	yes	-	0	0
+Handmaiden Of Stenoa	33	1331	413	181	157	75	127	253	44	beast	no	-	0	0
+Shyslassys	36	1535	463	205	175	96	141	253	44	beast	yes	-	0	0
+Cave Basilisk	30	1145	365	131	140	58	113	253	44	beast	no	-	0	0
+Gorr	36	1535	463	226	175	96	141	253	44	beast	yes	-	0	0
+Baraham	36	1535	463	226	175	96	141	253	44	beast	yes	-	0	0
+Queen Of Succubus	34	1397	430	196	162	81	132	253	44	demonic	yes	-	0	0
+Claw Succubus	28	1031	334	123	129	48	105	253	44	demonic	no	-	0	0
+Lava Salamander	35	1464	446	191	168	88	137	253	44	humanoid	no	-	0	0
+Nahir	35	1464	446	191	168	88	137	253	44	demonic	no	-	0	0
+Black Willow	30	1145	365	144	140	58	113	253	44	undead	no	Root	0	0
+Spirit Of Sir Herod	35	1512	446	197	174	88	137	253	44	undead	no	PAtk	0	0
+Luell Of Zephyr Winds	37	1657	480	228	187	104	146	253	44	elemental	no	PAtk	0	0
+Actea Of Verdant Wilds	37	1657	480	228	187	104	146	253	44	elemental	no	-	0	0
+Leto Lizardman Agent	35	1512	446	197	174	88	137	253	44	humanoid	no	-	0	0
+Leto Lizardman Leader	38	1734	497	245	194	112	152	253	44	humanoid	no	-	0	0
+Leto Lizardman Assassin	37	1606	480	243	181	104	146	253	44	humanoid	yes	-	0	0
+Leto Lizardman Sniper	36	1535	463	459	175	96	141	227	88	humanoid	yes	-	0	0
+Leto Lizardman Wizard	39	1754	514	279	194	121	157	253	44	humanoid	no	HpSuck	0	0
+Leto Lizardman Lord	40	2015	531	272	201	131	163	253	44	humanoid	yes	-	0	0
+Aruraune	40	1891	531	281	207	131	163	253	44	plant	yes	-	0	0
+Ol Mahum Inspector	38	1680	497	260	187	112	152	253	44	humanoid	yes	-	0	0
+Ol Mahum Betryer	36	1535	463	205	175	96	141	253	44	humanoid	no	-	0	0
+Crimsha Werewolf	36	1584	463	213	181	96	141	253	44	humanoid	yes	-	0	0
+Krudel Lizardman	36	1584	463	249	181	96	141	217	11	humanoid	yes	-	0	0
+Evil Eye Lord	37	1606	480	243	181	104	146	253	44	construct	yes	-	0	0
+Tatoma	32	1267	397	153	151	69	122	253	44	humanoid	yes	-	0	0
+Grima	50	2694	830	560	278	263	225	253	44	beast	yes	-	0	0
+Succubus of Seduction	40	1832	531	272	201	131	163	253	44	demonic	yes	-	0	0
+Demon King	50	80826	830	508	278	263	225	253	44	demonic	yes	-	0	0
+Great Demon King	60	183270	1150	2839	368	477	299	253	44	demonic	yes	-	0	0
+Secret Keeper Tree	47	2662	738	425	252	216	205	253	44	elemental	no	-	0	0
+Breka Overlord Haka	36	1687	463	205	175	96	141	253	44	humanoid	yes	-	0	0
+Breka Overlord Jaka	36	1687	463	205	175	96	141	253	44	humanoid	yes	-	0	0
+Breka Overlord Marka	36	1687	463	205	175	96	141	253	44	humanoid	yes	-	0	0
+Windsus Aleph	42	1992	589	342	214	152	174	253	44	beast	yes	-	0	0
+Talk Raider Athu	48	2509	768	498	261	231	211	253	44	humanoid	yes	-	0	0
+Talk Raider Lanka	48	2509	768	498	261	231	211	253	44	humanoid	yes	-	0	0
+Talk Raider Triska	48	2509	768	498	261	231	211	253	44	humanoid	yes	-	0	0
+Talk Raider Motura	48	2509	768	498	261	231	211	253	44	humanoid	yes	-	0	0
+Talk Raider Kalath	48	2509	768	498	261	231	211	253	44	humanoid	yes	-	0	0
+Gremlin Filcher	12	378	138	26	66	10	53	253	44	elemental	yes	-	0	0
+Black Legion Stormtrooper	43	2074	618	365	223	163	180	253	44	undead	yes	-	0	0
+Delu Lizardman Headhunter	28	1031	334	275	129	48	105	227	88	humanoid	yes	-	0	0
+Marsh Stakato Marquis	35	1464	446	211	168	88	137	253	44	humanoid	yes	-	0	0
+Alexandro Sanches	3	108	60	11	43	3	35	253	44	demonic	no	Dark Lord	0	0
+Bonaparterius	3	120	60	11	43	3	35	253	44	demonic	no	Abyss King	0	0
+Ramsebalius	3	108	60	12	43	3	35	253	44	demonic	no	Evil Overlord	0	0
+Leto Shaman Ketz	40	1832	531	272	201	131	163	253	44	humanoid	yes	-	0	0
+Leto Chief Narak	41	2102	560	291	208	140	168	253	44	humanoid	yes	-	0	0
+Timak Raider Kaikee	43	2074	618	365	223	163	180	253	44	humanoid	yes	-	0	0
+Timak Overlord Okun	46	2332	707	440	245	202	199	253	44	humanoid	yes	-	0	0
+Grandis Chief Gok Magok	43	2281	618	332	223	163	180	253	44	humanoid	yes	-	0	0
+Taik Overlord Kakran	45	2244	677	414	237	188	193	253	44	humanoid	no	-	0	0
+Hatar Chieftain Kubel	52	2882	892	570	294	300	239	253	44	humanoid	yes	-	0	0
+Vanor Elder Kerunos	51	3066	861	539	285	281	231	253	44	humanoid	yes	-	0	0
+Karul Chief Orooto	43	2074	618	365	223	163	180	253	44	humanoid	yes	-	0	0
+Abyssal Jewel	60	80639	1150	860	368	477	299	253	44	demonic	no	-	0	0
+Abyssal Jewel	60	80639	1150	860	368	477	299	253	44	demonic	no	-	0	0
+Abyssal Jewel	60	80639	1150	860	368	477	299	253	44	demonic	no	-	0	0
+Jewel Guardian Mara	53	2977	923	662	303	318	245	253	44	construct	yes	-	0	0
+Jewel Guardian Musfel	53	2977	923	601	303	318	245	253	44	construct	yes	-	0	0
+Jewel Guardian Pyton	58	3814	1084	779	348	428	283	253	44	construct	yes	-	0	0
+Sacrifice of Sacrificed	20	649	213	62	93	23	76	253	44	undead	no	-	0	0
+Harit Lizardman Zealot	55	3172	987	736	321	360	260	253	44	humanoid	yes	-	0	0
+Box of Athrea	50	2963	830	508	556	263	112	253	44	construct	no	-	0	0
+Box of Athrea	50	2963	830	508	139	263	452	253	44	construct	no	-	0	0
+Box of Athrea	50	5927	830	508	278	263	225	253	44	construct	no	-	0	0
+Box of Athrea	50	2963	830	508	556	263	452	253	44	construct	no	-	0	0
+Box of Athrea	50	2963	830	508	139	263	112	253	44	construct	no	-	0	0
+Blitz Wyrm	60	3665	1150	945	368	477	299	253	44	dragon	yes	-	0	0
+Grave Key Master	65	4158	1319	1075	417	617	338	253	44	construct	no	-	0	0
+Imperial Slave	56	10790	1019	704	330	382	268	253	44	undead	yes	-	0	0
+Imperial Gravekeeper	60	109962	1150	860	368	477	299	253	44	undead	no	-	0	0
+Lector	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	583
+Jackson	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	583
+Silvia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	583
+Katerina	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	583
+Wilford	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Roxxy	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Roien	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Carlrin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Auron	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Guts	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Langut	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Celma	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gallint	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Guprang	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Daefian	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rianon	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Riak	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Zigaunt	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Bitz	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gwinter	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Pintage	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Minia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Vivyan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Biotin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Yohanes	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Baulro	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Iris	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Harrys	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Petron	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Levian	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gilbert	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Leon	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Arnold	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Abellos	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Johnstone	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Chiperan	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Kenyos	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Hanks	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Firon	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Darin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Bonnie	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Elias	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Cristel	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rant	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Rolfe	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Maslin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Aldo	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Holvas	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Trisha	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sabrin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Casey	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sonia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Lara	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Terry	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Arnelle	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Pabris	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Glyvka	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Shefield	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Rollant	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sylvain	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Lucas	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Metty	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Jacob	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Harlan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Xaber	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Liam	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Pano	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Barder	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Clarissa	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Helvetia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Denkus	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Pochi	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Graham	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Stanford	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Taurin	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Peta	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Radia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sandra	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ellie	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Collob	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Groot	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gentler	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Randolf	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Galladucci	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Alexandria	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Valkon	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Parman	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Genwitter	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Dufner	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Goldian	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Macken	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Hannavalt	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Iker	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Dieter	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Maurius	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Juris	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Roa	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Jurek	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Dustin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Prim	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Pupina	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Isabellin	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Maximilian	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Jeronin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Blane	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Vesa	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Zerome	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Belton	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rath	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Atanas	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Mitraell	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Undrias	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Poeny	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Cecktinon	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Kartia	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Jasmine	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Iria	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Payne	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Vollodos	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Minaless	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Dorankus	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Erviante	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Talloth	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Trudy	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Harne	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Vlasty	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Mirabel	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Unoren	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Ariel	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Creamees	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Herbiel	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Chadren	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Julia	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Markius	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Asterios	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Ellenia	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Cobendell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Greenis	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Esrandell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Karin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rex	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ian	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ralford	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Wesley	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Marty	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Radic	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Galios	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Arkenias	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Karmiell	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Valleria	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Valentina	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Zenkin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Raudia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sara	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Galibredo	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Cliff	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Hagger	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Rigol	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Taniac Blackbird	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Bhan	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Klaus Blackbird	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Vadin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rovia	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Phanovia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Hollint	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Darya	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Gideon	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Brecson	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Mouen	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Hector	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Jerin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Yates	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Stan	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Pinaps	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Arodin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Damion	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Colleen	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Norman	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Wheeler	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Berros	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Kendnell	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Veltress	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Starden	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Rayen	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Alshupes	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Arujien 	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Rayla	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Edroc	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Garette	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sorint	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Esmeralda	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Holy Artifact	20	649	213	57	93	23	76	253	44	human	no	-	40	10
+Simplon	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Harmony	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Haprock	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Bella	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Altran	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Alberius	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Gartrandell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Rains	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Raymond	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Xenos	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Alex	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Manuel	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Varan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Tobias	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Pinter	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Pushkin	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Hally	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Vellior	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Karrod	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Sir Collin Windawood	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rockswell	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Asha	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Nestle	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Poesia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Raut	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Kluto	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Richlin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sydnia	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ballin	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Audiberti	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Leona	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sorius	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Reisa	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Virgil	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Sidra	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Thoma	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Bathis	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Praga	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Babenco	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Brynn	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Curtis	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Moretti	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Melville	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Varsak	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rohmer	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ramoniell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Kayleen	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Marion	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Nelsya	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Jenna	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Collette	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Astaron	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Karina	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Jughead	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Jewel	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Roselyn	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Altima	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Kristin	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Thifiell	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Kaitar	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Harant	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Rizraell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Andellia	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Aios	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Lilith	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Baenedes	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Nerupa	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Thalia	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Ramos	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rhodiell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Adonius	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Nell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Talbot	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Estella	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Bezique	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Plink	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Alvah	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Leikan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Scott	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Linus	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Weisz	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Luis	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Clancy	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Parina	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Arkine	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Valeor	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Sitadiel	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Daelian	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Prakia	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Marius	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Matheo	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Mesella	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Lemoniell	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Earth Snake	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Lizardman Of Wasteland	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Fire Salamander	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Wind Sylph	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Water Undine	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Rosella	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Charkeren	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Triskel	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Sir Klaus Vasper	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Annika	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Arkenia	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Tyra	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Varika	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Kalinta	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Norwind	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Allana	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Neti	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Pippen	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Siff	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Perrin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Tatiana	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Trionell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Eriel	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Irene	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Kathaway	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Samed	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Leopold	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sarien	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rolento	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Kurt	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Poitan	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Wandius	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Cardien	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Mirien	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Tronix	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Ixia	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Clayton	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Herven	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Bright	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Jonas	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rupio	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Rosheria	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Bandellos	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Angus	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Stapin	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Kaira	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Sir Ortho Lancer	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Reikin	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Mozella	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ponti	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Capella	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Hanna	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Penelope	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gludio Defend Teleporter 1	56	3269	1019	694	326	371	265	253	44	mercenary	no	-	292	10
+Gludio Defend Teleporter 2	56	3269	1019	694	326	371	265	253	44	mercenary	no	-	292	10
+Gludio Defend Teleporter 3	56	3269	1019	694	326	371	265	253	44	mercenary	no	-	292	10
+Gludio Mass Teleporter	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gludio Outter Doorman	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gludio Inner Doorman	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Brighum	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Tamutak	70	4634	1493	1312	469	779	381	253	44	humanoid	no	-	490	10
+Brakel	70	4634	1493	1312	469	779	381	253	44	humanoid	no	-	490	10
+Edmond	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Moke	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Tapoy	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Osborn	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Kasman	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Umos	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Rikadio	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Mendio	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Drikus	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Buka	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Racoy	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Castor	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Dowki	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Somak	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Gesto	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Kusto	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Penatus	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Vokian	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Manakia	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Reep	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Shari	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Garita	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Mion	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Reed	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Murdoc	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Airy	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Gouph	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Pippi	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Bronk	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Brunon	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Silvera	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Lateron	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Maron	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+May	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Lockirin	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Spiron	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Balanki	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Keef	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Filaur	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Arin	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Daichir	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Zimenf	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Chichirin	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Wirphy	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Paion	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Runant	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Ethan	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Cromwell	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Proton	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Dinkey	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Tardyon	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Nathan	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Ghouliff Droopstone	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Gauri Twinklerock	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Tink Wandergold	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Kiril Sparkystone	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Maryse Redbonnet	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Bolter	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Torocco	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Toma	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Torai	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Jakal	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Kunai	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Uska	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Papuma	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Grookin	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Imantu	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Sumari	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Kakai	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Varkees	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Tantus	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Hatos	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Brukurse	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Karukia	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Tanapi	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Livina	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Vulkus	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Tokum	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Shela	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Tamil	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Rukain	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Nakusin	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Tamai	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Parugon	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Orinak	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Tiku	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Petukai	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Vapook	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Tataru Zu Hestui	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Anai Zu Neruga	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Gantaki Zu Urutu	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Takia Zu Duda-Mara	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Kazkin Zu Gandi	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Rosheek	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Toruku	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Hestui Totem Spirit	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Duda-Mara Totem Spirit	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+Ranspo	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Opix	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Harkel	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Piotur	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Kensley	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Roios	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Franz	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Gulllin	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Tanai	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Maria	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Creta	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Cronos	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Triff	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Casian	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Alders Spirit	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+Metheus	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Voltar	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Kepra	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Burai	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Harak	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Driko	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Emily	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Nikola	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Box Of Titan	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+Kaien	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Ascalon	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Mason	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Hamil	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Tree	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+Strong Wooden Chest	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+Rukal	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Orim	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Roderik	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Endrigo	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Evert	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Galatea	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Almors	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Camoniell	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Belthus	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Basillia	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Celestiel	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Brynthea	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Takuna	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Chianta	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+First Orc	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Kash	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Martien	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Raldo	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Chest Of Shyslassys	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+Santiago	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Ancestor Martankus	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Gerald	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Dorff	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Uruha	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Sir Aron Tanford	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Sir Kiel Nighthawk	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Isael Silvershadow	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Spirit Of Sir Talianus	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+Seresin	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Gupu	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Orphan Girl	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Windy Shaoring	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Mysterious Dark Elf	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Piper Longbow	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Slein Shining Blade	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Kein Flying Knife	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Kristina	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Sla	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Ramus	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Katari	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Kakan	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Nyakuri	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Croto	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Dubaba	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Lorain	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Daurin Hammercrush	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Corpse Of Kamur	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Croop	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Flutter	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Helton	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Roameria	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Egnos	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Karia	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Pekiron	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Daunt	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Victor	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Baxt	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Silva	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Vergara	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Duning	70	4634	1493	1246	445	703	362	253	44	dwarf	no	-	384	10
+Siria	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Luther	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Aren Athebaldt	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Stedmiel	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Queenien	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Scraide	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Moses	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Page	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Videlrien	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Evelyn	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Medown	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Prestan	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Errickin	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Bernard	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Colin	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Garvarentz	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Chakiris	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Lazenby	70	4634	1493	1246	445	703	362	253	44	orc	no	-	384	10
+Raigen	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Nasign	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Norton	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Weston	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Byron	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Makhis	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Gardner	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Paros	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Marina	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Cecile	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Gauen	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Joan	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Mariel	70	4634	1493	1246	445	703	362	253	44	elf	no	-	384	10
+Kaiena	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Ladd	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Merian	70	4634	1493	1246	445	703	362	253	44	darkelf	no	-	384	10
+Roy	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Tavillian	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Yening	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Tebose	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Verona	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Leirynn	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Borys	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Jax	70	4634	1493	1246	445	703	362	253	44	human	no	-	384	10
+Martin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ol Mahum Pilgrim	36	1687	463	205	175	96	141	253	44	humanoid	no	-	130	10
+Guard	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+supply box on wharf	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+sophya	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+redfoot	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+morgan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+matild	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+keltir	70	4634	1493	1312	469	779	381	253	44	humanoid	no	-	490	10
+toad	70	4634	1493	1312	469	779	381	253	44	beast	no	-	490	10
+rabbit	70	4634	1493	1312	469	779	381	253	44	animal	no	-	490	10
+rupina	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+wisdom chest	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+grey	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+tor	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+cybellin	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+mymyu	70	4634	1493	1312	469	779	381	253	44	elemental	no	-	490	10
+exarion	70	4634	1493	1312	469	779	382	253	44	dragon	no	-	490	10
+zwov	70	4634	1493	1312	469	779	382	253	44	dragon	no	-	490	10
+kalibran	70	4634	1493	1312	469	779	382	253	44	dragon	no	-	490	10
+suzet	70	4634	1493	1312	469	779	382	253	44	dragon	no	-	490	10
+shamhai	70	4634	1493	1312	469	779	382	253	44	dragon	no	-	490	10
+Gabrielle	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gilmore	70	4634	1493	1312	469	779	379	253	44	undead	no	-	490	10
+Theodric	70	4634	1493	1312	469	779	379	253	44	undead	no	-	490	10
+Kristof Rodemai	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+statue_of_offering	70	4634	1493	1312	469	779	382	253	44	human	no	-	490	10
+Athrea	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Kalis	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gustaf Athebaldt	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Corpse of Fritz	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Corpse of Lutz	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Corpse of Kurtz	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Balthazar	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Imperial Coffer	70	4634	1493	1246	445	703	362	253	44	elemental	no	-	384	10
+Cleo	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Auctioneer	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Auctioneer	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Auctioneer	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Auctioneer	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Auctioneer	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Wilson	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Todd	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ruben	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Luce	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Horner	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Amiel	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Bremmer	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Faolan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Callum	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+kogan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Winker	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Merton	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Black	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Renny	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Dillon	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Latif	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Boyer	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Baback	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Tim	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Loring	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Lowell	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Paranos	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Klingel	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Keffer	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Sand	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Teters	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Seth	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Jabilo	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ron	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Borna	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Flynn	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Jamal	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Watkins	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Cohen	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Bint	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Bourdon	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Pery	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Gampert	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Gonti	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Baraha	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Vanhal	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Dan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Briggs	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Stegmann	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Randolph	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Trotter	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Veder	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Danas	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Corey	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Barney	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Krett	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Tairee	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Tanner	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Cresson	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Crothers	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Lundy	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Waters	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Cooper	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Joey	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Nelson	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Hardin	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Kaspar	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Cema	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Icarus	70	4634	1493	1312	469	779	381	253	44	undead	no	-	490	10
+Minerva	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Woodrow	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Woodley	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Holly	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Lorenzo	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Carson	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Alexis	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Romp	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Walderal	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Klump	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Wilbert	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Ferris	70	4634	1493	1312	469	779	381	253	44	dwarf	no	-	490	10
+Elisa	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sedrick	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Aiken	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Kendra	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sinden	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Raien	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Drikyan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Desmond	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Winonin	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Orven	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Ross	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Vevina	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Flownia	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Linnet	70	4634	1493	1312	469	779	381	253	44	elf	no	-	490	10
+Oltlin	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Ghest	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Hanellin	70	4634	1493	1312	469	779	381	253	44	darkelf	no	-	490	10
+Ladanza	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Marestella	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Reva	70	4634	1493	1312	469	779	381	253	44	orc	no	-	490	10
+Eric Rodemai	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Lemper	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Kurtiz	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Bret	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Conroy	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Coleman	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Aldis	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Carlton	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Eastan	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Grayson	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Angelina	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Felton	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Viktor Van Deik	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Sanders	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Oskar Blackbird	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Benedict	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Dino	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Calder	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Sutton	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Harlow	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Trent	70	4634	1493	1312	469	779	381	253	44	human	no	-	490	10
+Rowan	70	4634	5550	2919	469	779	381	227	88	human	no	-	490	10
+Queen Ant	43	113760	333	332	245	163	180	257	88	bug	no	-	18490	1500
+Queen Ant Larva	29	1122	349	126	139	53	110	257	44	bug	no	-	84	1
+Nurse Ant	35	1464	446	191	186	88	137	257	44	bug	no	-	123	1
+Guard Ant	37	1606	480	220	181	104	146	257	44	bug	yes	-	137	1
+Royal Guard Ant	39	1754	514	279	194	121	157	257	44	bug	no	-	152	1
+Kat The Cat	22	479	219	53	95	35	67	257	4	humanoid	no	-	0	1
+Kat The Cat	32	828	358	109	129	72	91	257	4	humanoid	no	-	0	1
+Kat The Cat	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
+Duke Lewin Waldner	65	8317	1319	2152	417	891	338	379	88	castle_guard	no	-	423	1
+Cronenberg	62	7727	1217	1888	388	765	315	379	88	castle_guard	no	Sir	384	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	293	88	castle_guard	no	-	314	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	293	88	castle_guard	no	-	314	1
+Bloody Lord Nurka	55	1516800	987	670	321	360	260	257	44	humanoid	no	-	1513	1
+Partisan Healer	40	1832	531	272	201	131	163	257	44	humanoid	no	-	800	1
+Partisan Court Guard	40	1832	531	272	201	131	163	257	44	humanoid	no	-	800	1
+Partisan Court Guard	40	1832	531	332	201	131	163	231	44	humanoid	yes	-	800	1
+Partisan Soldier	35	1464	446	191	168	88	137	257	44	humanoid	no	-	613	1
+Partisan Sorcerer	35	1464	446	191	168	88	137	257	44	humanoid	no	-	613	1
+Partisan Archer	35	1464	446	427	168	88	137	231	44	humanoid	yes	-	613	1
+Bloody Lord Nurka	55	1516800	987	670	321	360	260	257	44	humanoid	yes	-	1513	1
+Partisan Healer	40	1832	531	272	201	131	163	257	44	humanoid	no	-	800	1
+Partisan Court Guard	40	1832	531	272	201	131	163	257	44	humanoid	no	-	800	1
+Partisan Court Guard	40	1832	531	332	201	131	163	231	44	humanoid	yes	-	800	1
+Partisan Soldier	35	1464	446	191	168	88	137	257	44	humanoid	no	-	613	1
+Partisan Socerer	35	1464	446	191	168	88	137	257	44	humanoid	no	-	613	1
+Partisan Archer	35	1464	446	235	168	88	137	231	44	humanoid	yes	-	613	1
+Core	50	170640	287	263	347	55	277	257	44	humanoid	no	-	25000	1800
+Teleport Cube	70	4634	1493	1312	469	779	381	257	44	humanoid	no	-	490	1
+Death Knight	50	2694	830	560	278	263	225	257	44	undead	yes	-	250	1
+Death Wraith	55	3172	987	736	321	360	260	257	44	undead	yes	-	303	1
+Dicor	47	2419	738	468	252	216	205	257	44	humanoid	yes	-	221	1
+Validus	46	2332	707	401	270	202	199	257	44	humanoid	yes	-	212	1
+Susceptor	49	2602	799	480	296	247	219	257	44	humanoid	yes	-	240	1
+Perum	48	2509	768	452	287	231	211	257	44	humanoid	yes	-	230	1
+Premo	45	2244	677	414	237	188	193	257	44	humanoid	no	-	203	1
+Mew The Cat	27	638	287	77	111	51	79	257	4	humanoid	no	-	0	1
+Mew The Cat	37	1050	433	151	149	100	105	257	4	humanoid	no	-	0	1
+Mew The Cat	47	1581	665	270	192	178	136	257	4	humanoid	no	-	0	1
+Unicorn Boxer	22	479	219	53	95	35	67	257	4	humanoid	no	-	0	1
+Unicorn Boxer	32	828	358	109	129	72	91	257	4	humanoid	no	-	0	1
+Unicorn Boxer	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
+Unicorn Mirage	27	638	287	77	111	51	79	257	4	humanoid	no	-	0	1
+Unicorn Mirage	37	1050	433	151	149	100	105	257	4	humanoid	no	-	0	1
+Unicorn Mirage	47	1581	665	270	192	178	136	257	4	humanoid	no	-	0	1
+Shadow	22	479	219	53	95	35	67	257	4	humanoid	no	-	0	1
+Shadow	32	828	358	109	129	72	91	257	4	humanoid	no	-	0	1
+Shadow	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
+Silhouette	27	638	287	77	111	51	79	257	4	humanoid	no	-	0	1
+Silhouette	37	1050	433	151	149	100	105	257	4	humanoid	no	-	0	1
+Silhouette	47	1581	665	270	192	178	136	257	4	humanoid	no	-	0	1
+Hatchling	35	24	40	32	34	22	25	257	4	humanoid	no	-	0	1
+Pet Wolf A	15	148	75	7	18	5	13	257	4	humanoid	no	-	0	1
+Teleport Cube	70	4634	1493	1312	469	779	381	257	44	humanoid	no	-	490	1
+Bloody Queen	60	3665	1150	945	368	477	299	257	44	beast	yes	MpSuck,Poison	4320	375
+Bloody Queen	60	3665	1150	945	368	477	299	257	44	beast	yes	MpSuck,Poison	4320	375
+Royal Gatekeeper	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Bearded Keltir	1	74	44	4	39	2	31	253	88	humanoid	no	-	29	2
+Arachne	50	2694	830	560	278	263	225	253	44	elemental	no	-	3000	226
+Bloody Pixy	50	2694	830	560	278	263	225	253	44	elemental	no	-	3000	226
+Dark Pan	50	2694	830	560	278	263	225	253	44	elemental	no	-	3000	226
+Pan	50	2694	830	560	278	263	225	253	44	elemental	no	-	3000	226
+Pixy	50	2694	830	560	278	263	225	253	44	elemental	no	-	3000	226
+Red Arachne	50	2694	830	560	278	263	225	253	44	elemental	no	-	3000	226
+Blight Treant	50	2963	830	508	278	263	225	253	44	elemental	no	-	3000	226
+Treant	50	2963	830	508	278	263	225	253	44	elemental	no	-	3000	226
+Pixy Murika	50	2963	830	508	278	263	225	253	44	elemental	no	-	3000	226
+Treant Bremec	50	2963	830	508	278	263	225	253	44	elemental	no	-	3000	226
+Duke Byron Ashton	65	8317	1319	2152	417	891	338	379	88	castle_guard	no	-	423	1
+Ivano	62	7727	1217	1888	388	765	315	379	88	castle_guard	no	Sir	384	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Crosby	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Gibbson	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Holything	20	649	213	57	93	23	76	257	44	human	no	Dion	40	10
+Baron Carmon Esthus	65	8317	1319	2152	417	891	338	379	88	castle_guard	no	-	423	1
+Ulric	62	7727	1217	1888	388	765	315	379	88	castle_guard	no	Sir	384	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Saul	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Holmes	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Holything	20	649	213	57	93	23	76	257	44	human	no	Giran	40	10
+Defend Teleporter1	56	3269	1019	694	326	371	265	257	44	mercenary	no	-	292	10
+Defend Teleporter2	56	3269	1019	694	326	371	265	257	44	mercenary	no	-	292	10
+Defend Teleporter3	56	3269	1019	694	326	371	265	257	44	mercenary	no	-	292	10
+Mass Teleporter	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Outter Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Inner Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Royal Gatekeeper	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Defend Teleporter1	56	3269	1019	694	326	371	265	257	44	mercenary	no	-	292	10
+Defend Teleporter2	56	3269	1019	694	326	371	265	257	44	mercenary	no	-	292	10
+Defend Teleporter3	56	3269	1019	694	326	371	265	257	44	mercenary	no	-	292	10
+Mass Teleporter	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Outter Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Inner Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Royal Gatekeeper	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Orfen	50	227520	830	1017	278	263	450	257	44	elemental	yes	-	25000	1800
+Raikel	48	2509	768	452	261	231	211	257	44	beast	no	-	230	1
+Raikel Leos	49	2602	799	374	269	247	219	289	44	beast	no	-	240	1
+Riba	48	2509	768	452	261	231	211	257	44	beast	no	-	230	1
+Riba Iren	49	2602	799	480	269	247	219	257	44	beast	no	-	240	1
+Suceptor Prime	49	2602	799	480	269	247	219	257	44	construct	yes	-	240	1
+Kat The Cat	50	1760	748	315	206	208	146	257	4	humanoid	no	-	0	1
+Kat The Cat	58	2265	977	457	245	302	174	257	4	humanoid	no	-	0	1
+Mew The Cat	54	2009	861	382	225	253	160	257	4	humanoid	no	-	0	1
+Unicorn Boxer	50	1760	748	315	206	208	146	257	4	humanoid	no	-	0	1
+Unicorn Boxer	58	2265	977	457	245	302	174	257	4	humanoid	no	-	0	1
+Unicorn Mirage	54	2009	861	382	225	253	160	257	4	humanoid	no	-	0	1
+Shadow	50	1760	748	315	206	208	146	257	4	humanoid	no	-	0	1
+Shadow	58	2265	977	457	245	302	174	257	4	humanoid	no	-	0	1
+Silhouette	54	2009	861	382	225	253	160	257	4	humanoid	no	-	0	1
+Dark Panther	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
+Dark Panther	51	1821	776	331	211	219	149	257	4	humanoid	no	-	0	1
+Dark Panther	60	2395	1037	496	255	328	181	257	4	humanoid	no	-	0	1
+Mechanic Golem	30	748	329	95	122	63	86	257	4	humanoid	no	-	0	1
+Mechanic Golem	38	1098	448	161	153	106	108	257	4	humanoid	no	-	0	1
+Mechanic Golem	45	1466	611	242	183	160	130	257	4	humanoid	no	-	0	1
+Mechanic Golem	51	1821	776	331	211	219	149	257	4	humanoid	no	-	0	1
+Mechanic Golem	57	2201	948	437	240	289	170	257	4	humanoid	no	-	0	1
+Reanimated Man	46	1523	638	384	125	169	133	257	4	humanoid	no	-	0	1
+Reanimated Man	54	2009	861	573	150	253	160	257	4	humanoid	no	-	0	1
+Corrupted Man	42	1302	531	136	255	135	120	257	4	humanoid	no	-	0	1
+Corrupted Man	50	1760	748	210	310	208	146	257	4	humanoid	no	-	0	1
+Corrupted Man	58	2265	977	304	368	302	174	257	4	humanoid	no	-	0	1
+Life Cubic	45	2244	781	376	261	188	222	257	44	humanoid	no	-	203	1
+Life Cubic	51	2788	993	539	315	281	267	257	44	humanoid	no	-	260	1
+Life Cubic	57	3367	1213	742	373	404	317	257	44	humanoid	no	-	325	1
+Storm Cubic	42	2056	679	320	222	152	201	257	44	humanoid	no	-	176	1
+Storm Cubic	48	2591	886	466	269	231	243	257	44	humanoid	no	-	230	1
+Storm Cubic	54	3174	1102	655	321	339	292	257	44	humanoid	no	-	292	1
+Vampiric Cubic	45	2316	781	389	245	188	222	257	44	humanoid	no	-	203	1
+Vampiric Cubic	51	2878	993	556	295	281	267	257	44	humanoid	no	-	260	1
+Vampiric Cubic	57	3476	1213	765	350	404	317	257	44	humanoid	no	-	325	1
+Poltergeist Cubic	42	2056	679	320	222	152	201	257	44	humanoid	no	-	176	1
+Poltergeist Cubic	48	2591	886	466	269	231	243	257	44	humanoid	no	-	230	1
+Poltergeist Cubic	54	3174	1102	655	321	339	292	257	44	humanoid	no	-	292	1
+Viper Cubic	51	2878	993	556	295	281	267	257	44	humanoid	no	-	260	1
+Viper Cubic	57	3476	1213	765	350	404	317	257	44	humanoid	no	-	325	1
+Antaras	70	12963360	1660	10855	7632	25169	1553	206	64	dragon	no	-	980000	120000
+Duke Balthus Vanik	65	8317	1319	2152	417	891	338	379	88	castle_guard	no	-	423	1
+Quant	62	7727	1217	1888	388	765	315	379	88	castle_guard	no	Sir	384	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1627	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Court Knight	60	3665	1150	1548	368	688	299	379	88	castle_guard	no	-	360	1
+Court Sorcerer	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Priest	58	3467	1084	1405	348	616	283	379	88	castle_guard	no	-	336	1
+Court Guard	58	3467	1084	1405	348	616	283	325	88	castle_guard	no	-	336	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	325	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	1270	330	550	268	379	88	castle_guard	no	-	314	1
+Guard	56	3269	1019	2824	330	550	268	293	88	castle_guard	no	-	314	1
+Brasseur	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Sherwood	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Oren Holything	20	649	213	57	93	23	76	257	44	human	no	-	40	10
+Defend Teleporter1	56	3269	1019	704	330	382	268	257	44	mercenary	no	-	314	10
+Defend Teleporter2	56	3269	1019	704	330	382	268	257	44	mercenary	no	-	314	10
+Defend Teleporter3	56	3269	1019	704	330	382	268	257	44	mercenary	no	-	314	10
+Mass Teleporter	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Outter Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Inner Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Royal Gatekeeper	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Heart Of Warding	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Siege Golem	55	600000	890	1500	837	265	674	150	4	humanoid	no	-	1	87
+Sayres	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Tyron	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Amadeo Cadmus	75	10147	1672	907	516	1344	418	379	88	castle_guard	no	King	533	1
+Logan	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Radcliff	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Shamus	72	9631	1565	896	488	1207	396	379	88	castle_guard	no	Sir	504	1
+Morpheus	72	9631	1565	896	488	1207	396	379	88	castle_guard	no	Sir	504	1
+Ruford	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Event Manager	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Event Manager	70	4634	1493	1333	469	779	381	253	44	elf	no	-	490	10
+Event Manager	70	4634	1493	1333	469	779	381	253	44	darkelf	no	-	490	10
+Event Manager	70	4634	1493	1333	469	779	381	253	44	dwarf	no	-	490	10
+Event Manager	70	4634	1493	1333	469	779	381	253	44	orc	no	-	490	10
+Court Knight	70	13903	1493	3941	939	1122	381	379	88	castle_guard	no	-	490	1
+Court Sorcerer	68	13342	1423	3651	898	1026	364	379	88	castle_guard	no	-	462	1
+Court Priest	68	13342	1423	3651	898	1026	364	379	88	castle_guard	no	-	462	1
+Court Guard	68	13342	2135	3651	898	1026	364	325	88	castle_guard	no	-	462	1
+Guard	66	12767	2030	3368	857	934	347	325	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	379	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	7484	857	934	347	293	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	325	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	379	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	7484	857	934	347	293	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	325	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	379	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	7484	857	934	347	293	88	castle_guard	no	-	436	1
+Court Knight	70	13903	1493	3941	939	1122	381	379	88	castle_guard	no	-	490	1
+Court Sorcerer	68	13342	1423	3651	898	1026	364	379	88	castle_guard	no	-	462	1
+Court Priest	68	13342	1423	3651	898	1026	364	379	88	castle_guard	no	-	462	1
+Court Guard	68	13342	1423	3651	898	1026	364	325	88	castle_guard	no	-	462	1
+Guard	66	12767	1353	3368	857	934	347	325	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	379	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	7484	857	934	347	293	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	325	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	379	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	7484	857	934	347	293	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	325	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	3368	857	934	347	379	88	castle_guard	no	-	436	1
+Guard	66	12767	1353	7484	857	934	347	293	88	castle_guard	no	-	436	1
+Aden Holything	20	865	213	57	188	23	76	257	44	human	no	-	40	10
+Defend Teleporter1	56	4360	1019	704	661	382	268	257	44	mercenary	no	-	314	10
+Defend Teleporter2	56	4360	1019	704	661	382	268	257	44	mercenary	no	-	314	10
+Defend Teleporter3	56	4360	1019	704	661	382	268	257	44	mercenary	no	-	314	10
+Defend Teleporter4	56	4360	1019	704	661	382	268	257	44	mercenary	no	-	314	10
+Defend Teleporter5	56	4360	1019	704	661	382	268	257	44	mercenary	no	-	314	10
+Mass Teleporter	70	6179	1493	1312	939	779	381	257	44	human	no	-	490	10
+Outter Doorman	70	6179	1493	1312	939	779	381	257	44	human	no	-	490	10
+Inner Doorman	70	6179	1493	1312	939	779	381	257	44	human	no	-	490	10
+Royal Gatekeeper	70	6179	1493	1312	939	779	381	257	44	human	no	-	490	10
+Mercenary	46	2332	708	639	248	405	209	379	88	mercenary	no	-	212	1
+Mercenary	46	2332	708	745	248	405	209	325	88	mercenary	no	-	212	1
+Mercenary	46	2332	708	827	248	405	209	293	88	mercenary	no	-	212	1
+Mercenary	48	2509	1152	649	349	456	223	379	88	mercenary	no	-	230	1
+Mercenary	48	2509	1152	649	349	456	223	379	88	mercenary	no	-	230	1
+Mercenary	46	2332	708	639	248	405	209	379	88	mercenary	no	-	212	1
+Mercenary	46	2332	708	745	248	405	209	325	88	mercenary	no	-	212	1
+Mercenary	46	2332	708	827	248	405	209	293	88	mercenary	no	-	212	1
+Mercenary	48	2509	1152	649	349	456	223	379	88	mercenary	no	-	230	1
+Mercenary	48	2509	1152	649	349	456	223	379	88	mercenary	no	-	230	1
+Hatchling of the Wind	35	417	201	32	34	22	25	257	4	humanoid	no	-	0	1
+Hatchling of the Stars	35	1855	201	32	34	22	25	257	4	humanoid	no	-	0	1
+Hatchling of Twilight	35	927	201	32	34	22	25	257	4	humanoid	no	-	0	1
+Life Control Tower	20	649	213	57	93	23	76	257	44	human	no	-	40	10
+Life Control Tower	20	649	213	57	93	23	76	257	44	human	no	-	40	10
+Greenspan	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Sanford	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Morrison	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Arvid	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Eldon	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Rodd	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Hall Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Inner Doorman	70	4634	1493	1312	469	779	381	257	44	human	no	-	490	10
+Teleport Cube	70	4634	1493	1312	469	779	381	257	44	humanoid	no	-	490	1
+Defend Teleporter1	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter2	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter3	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter1	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter2	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter3	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter1	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter2	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter3	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter1	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter2	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter3	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter1	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter2	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter3	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter4	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Defend Teleporter5	56	3269	1019	694	326	371	265	257	44	human	no	-	292	10
+Flame Control Tower	20	649	213	57	93	23	76	257	44	human	no	-	40	10
+Flame Control Tower	20	649	213	57	93	23	76	257	44	human	no	-	40	10
+Kat The Cat	27	638	287	77	111	51	79	257	4	humanoid	no	-	0	1
+Kat The Cat	37	1050	433	151	149	100	105	257	4	humanoid	no	-	0	1
+Kat The Cat	46	1523	638	256	188	169	133	257	4	humanoid	no	-	0	1
+Kat The Cat	54	2009	861	382	225	253	160	257	4	humanoid	no	-	0	1
+Mew The Cat	22	479	219	53	95	35	67	257	4	humanoid	no	-	0	1
+Mew The Cat	32	828	358	109	129	72	91	257	4	humanoid	no	-	0	1
+Mew The Cat	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
+Mew The Cat	50	1760	748	315	206	208	146	257	4	humanoid	no	-	0	1
+Mew The Cat	58	2265	977	457	245	302	174	257	4	humanoid	no	-	0	1
+Unicorn Boxer	27	638	287	77	111	51	79	257	4	humanoid	no	-	0	1
+Unicorn Boxer	37	1050	433	151	149	100	105	257	4	humanoid	no	-	0	1
+Unicorn Boxer	46	1523	638	256	188	169	133	257	4	humanoid	no	-	0	1
+Unicorn Boxer	54	2009	861	382	225	253	160	257	4	humanoid	no	-	0	1
+Unicorn Mirage	22	479	219	53	95	35	67	257	4	humanoid	no	-	0	1
+Unicorn Mirage	32	828	358	109	129	72	91	257	4	humanoid	no	-	0	1
+Unicorn Mirage	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
+Unicorn Mirage	50	1760	748	315	206	208	146	257	4	humanoid	no	-	0	1
+Unicorn Mirage	58	2265	977	457	245	302	174	257	4	humanoid	no	-	0	1
+Shadow	27	638	287	77	111	51	79	257	4	humanoid	no	-	0	1
+Shadow	37	1050	433	151	149	100	105	257	4	humanoid	no	-	0	1
+Shadow	46	1523	638	256	188	169	133	257	4	humanoid	no	-	0	1
+Shadow	54	2009	861	382	225	253	160	257	4	humanoid	no	-	0	1
+Silhouette	22	479	219	53	95	35	67	257	4	humanoid	no	-	0	1
+Silhouette	32	828	358	109	129	72	91	257	4	humanoid	no	-	0	1
+Silhouette	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
+Silhouette	50	1760	748	315	206	208	146	257	4	humanoid	no	-	0	1
+Silhouette	58	2265	977	457	245	302	174	257	4	humanoid	no	-	0	1
+Puss the Cat	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10

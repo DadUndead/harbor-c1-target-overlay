@@ -1,0 +1,599 @@
+Abyss Flyer	n.a.	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Akaste Bone Archer	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Akaste Bone Lord	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Akaste Bone Soldier	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Akaste Bone Warlord	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Akaste Succubus Tilfo	45-75s		Chance of putting target to sleep
+Akaste Succubus Turen	45-75s		Chance of putting target to sleep
+Amber Basilisk	90s	-15% Def if attacker can detect beast weakness	
+Ant	95s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Ant Captain	95s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Ant Guard	1-5m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Ant Larva	1-5m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Ant Overseer	1-5m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Ant Patrol	1-5m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Ant Recruit	1-5m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 6 damage every 5 secs for 3 mins
+Ant Soldier	95s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 6 damage every 5 secs for 3 mins
+Ant Warrior Captain	95s	-15% Def if attacker can detect beast weakness; -15% Def vs. fire type attacks	
+Arachnid Predator	35s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 5 damage every 5 secs for 3 mins
+Arachnid Tracker	15s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 3 damage every 5 secs for 3 mins
+Archer of Greed	95s	-20% Def vs. holy attacks	Archer; Attacks with power 417 [chance of Stunning target]
+Ashen Wolf	15s		
+Balor Orc Archer	15s		Archer
+Balor Orc Fighter	15s		
+Balor Orc Fighter Leader	15s		
+Balor Orc Lieutenant	15s		
+Baranka Escort	15-45s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Baranka Guard	15-45s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Baraq Orc Fighter	45-75s		
+Baraq Orc Fighter Lieutenant	45-75s		
+Barbed Bat	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Barif	10-20m		Gives 13 damage every 5 secs for 3 mins
+Basilisk	95s	-15% Def if attacker can detect beast weakness	
+Bearded Keltir	15s		
+Betrayer of Urutu Freki	1-3hr	-20% Def vs. holy attacks	
+Black Timber Wolf	15s		
+Black Wolf	15s		
+Blade Bat	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Blade Spider	15s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Blood Fungus	15s	-15% Def vs. fire type attacks; +50% Def vs. poison	
+Bloody Axe Elite	3m		
+Bloody Bee	75s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 5 damage every 5 secs for 3 mins
+Bloody Lord Nurka	3hr	Cannot be Held, Paralyzed, Confused or Slept	
+Bloody Queen	115s		Drains 165 mana from target; gives 13 damage every 5 secs for 3 mins
+Boogle Ratman	45-75s		
+Boogle Ratman Leader	45-75s		
+Brae Orc Archer	n.a.		Archer
+Brae Orc Chief	1-3hr		Attacks with power 105
+Brae Orc Fighter	n.a.		
+Breka Orc	95s		
+Breka Orc Archer	95s		Archer; Attacks with power 584
+Breka Orc Overlord	95s		Attacks with power 219
+Breka Orc Shaman	95s		Attacks with power 38, drains 20%
+Breka Orc Warrior	95s		Attacks with power 219
+Brown Bear	35s		
+Brown Keltir	15s	-15% Def if attacker can detect animal weakness	
+Bugbear Raider	3m		
+Carinkain	95s		Drains 105 mana from target
+Cave Bat	45-75s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Cave Beast	2-6m	-15% Def if attacker can detect beast weakness	Buffs self (+15% P.Atk)
+Cave Blade Spider	45-75s		
+Cave Fang Spider	45-75s		
+Cave Howler	2-6m		Buffs self (+33% P.AtkSpd)
+Cave Keeper	115s	-15% Def if attacker can detect beast weakness	Attacks with power 722
+Cave Maiden	115s	-15% Def if attacker can detect beast weakness	Roots target in place
+Cave Servant	115s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Cave Servant Archer	115s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer; Attacks with power 1110
+Cave Servant Captain	115s	-40% Def vs. holy attacks; -10% Def vs. blunts	Chance of stunning target
+Cave Servant General	n.a.	-20% Def vs. holy attacks	
+Cave Servant Lord Ishka	1-3hr	-20% Def vs. holy attacks	Attacks with power 3408, but has a chance to miss
+Cave Servant Warrior	115s	-40% Def vs. holy attacks; -10% Def vs. blunts	Chance of stunning target
+Cave Spider	45-75s		
+Core	37-83hr	Cannot be Held, Paralyzed, Confused or Slept	Help range x6
+Corpse Candle	45-75s		Attacks with power 18
+Corpse Scavenger	n.a.	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Corsair Captain Kylon	2-4hr	-20% Def vs. holy attacks	
+Crasher	15s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Crimson Drake	95s	-15% Def if attacker can detect dragon weakness	Attacks target with power 85
+Crimson Spider	15s		
+Crypt Horror	15-45s	-20% Def vs. holy attacks	
+Crystalline Beast	n.a.		
+Dark Horror	15s	-20% Def vs. holy attacks	
+Dark Knight	n.a.		
+Dark Lord	11-19m		
+Dark Succubus	15s		
+Dark Terror	45-75s	-20% Def vs. holy attacks	
+Darkstone Golem	45-75s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Darkwing Bat	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Dead Seeker	90s	-15% Def if attacker can detect beast weakness	
+Death Fire	7-13m		
+Death Knight	1-7m	-20% Def vs. holy attacks	
+Death Wave	2-6m		Buffs self (+15% P.Def)
+Delu Lizardman	75s		
+Delu Lizardman Scout	75s		
+Delu Lizardman Shaman	3m		Roots target in place
+Delu Lizardman Warrior	95s		
+Dementia Beast	n.a.		
+Demon Tempest	2-4hr	-20% Def vs. holy attacks	Attacks with power 52, drains 20%
+Dicor	1-7m		Gives 8 damage every 5 secs for 3 mins
+Dion Grizzly	90s	-15% Def if attacker can detect animal weakness	
+Dire Wolf	90s	-15% Def if attacker can detect animal weakness	
+Dire Wyrm	95s	-15% Def if attacker can detect dragon weakness; +50% Def vs. bows	
+Discarded Guardian	1-3hr	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 38
+Doom Knight	95s	-20% Def vs. holy attacks	Attacks with power 1136
+Doom Soldier	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Dragon Bearer Archer	n.a.	-20% Def vs. holy attacks	Archer; Attacks with power 1110
+Dragon Bearer Chief	30m	-20% Def vs. holy attacks	Chance of stunning target
+Dragon Bearer Warrior	n.a.	-20% Def vs. holy attacks	Chance of stunning target
+Drake	115s	-15% Def if attacker can detect dragon weakness	Attacks multiple targets with power 34
+Dre Vanul	45-75s		
+Dre Vanul Beholder	45-75s		
+Dre Vanul Scout	45-75s		
+Dre Vanul Slayer	45-75s		
+Dre Vanul Tracker	45-75s		
+Dre Vanul Warrior	1-3m		Attacks with power 38, drains 20%
+Dread Avenger Kraven	1-3hr	-20% Def vs. holy attacks	Attacks with power 722
+Dread Panther	n.a.	-15% Def if attacker can detect beast weakness	
+Dread Soldier	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Drill Bat	45-75s	-15% Def if attacker can detect animal weakness; -15% Def vs. wind type attacks; -10% Def vs. bows	
+Dryad	15s	-15% Def vs. fire type attacks; +50% Def vs. poison	
+Dryad Elder	15s	-15% Def vs. fire type attacks; +50% Def vs. poison	
+Dungeon Skeleton	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Dungeon Skeleton Archer	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Dungeon Spider	45-75s		
+Dustwind Gargoyle	115s	+130% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 241 [chance of Stunning target]
+Elder Brown Keltir	15s	-15% Def if attacker can detect animal weakness	
+Elder Keltir	15s	-15% Def if attacker can detect animal weakness	
+Elder Longtail Keltir	15s	-15% Def if attacker can detect animal weakness	
+Elder Prarie Keltir	15s	-15% Def if attacker can detect animal weakness	
+Elder Red Keltir	15s	-15% Def if attacker can detect animal weakness	
+Elder Tarlk Basilisk	95s	-15% Def if attacker can detect beast weakness	
+Elder Wolf	15s		
+Elpy	15s		
+Enchanted Gargoyle	95s	+130% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 139 [chance of Stunning target]
+Enchanted Iron Golem	95s	+130% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 139 [chance of Stunning target]
+Enchanted Monstereye	95s		Roots target in place
+Enchanted Stone Golem	95s	+130% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 139 [chance of Stunning target]
+Enku Orc Champion	75s		Attacks with power 105
+Enku Orc Shaman	75s		Attacks target with power 16, reduces target's movement 30%
+Evil Eye	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Evil Eye Lookout	15-45s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Evil Eye Patroller	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Evil Eye Watcher	15-45s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Excuro	1-7m		Attacks with power 52, drains 20%
+Fairy Queen Timiniel	3-7hr		
+Falibati	95s		Chance of putting target to sleep
+Farcran	95s	-15% Def if attacker can detect beast weakness	Attacks with power 241 [chance of Stunning target]
+Felim Lizardman	35s		
+Felim Lizardman Scout	35s		
+Felim Lizardman Warrior	35s		
+Festering Bat	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Fettered Soul	95s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Fire Archer	n.a.	-20% Def vs. holy attacks	Archer
+Fline	95s	+50% Def vs. wind type attacks; -15% Def vs. earth type attacks	Attacks with power 52
+Fline Elder	95s	+50% Def vs. wind type attacks; -15% Def vs. earth type attacks	Attacks with power 68
+Follower Of Kuroboros	n.a.		
+Forest Runner	95s		
+Formor	95s	-15% Def if attacker can detect beast weakness	
+Formor Elder	95s	-15% Def if attacker can detect beast weakness	
+Gamlin	1-7m		
+Gargoyle Lord Sirocco	2-4hr	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	
+Garum Werewolf	15s		
+Gemstone Beast	35-65s	-15% Def if attacker can detect beast weakness	
+Ghost Guardian	15-45s		
+Ghoul	90s	-20% Def vs. holy attacks	Attacks with power 38
+Giant Crimson Ant	90s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 5 damage every 5 secs for 3 mins
+Giant Fungus	95s	-15% Def if attacker can detect plant weakness	Roots target in place
+Giant Mist Leech	90s	-15% Def if attacker can detect beast weakness; -15% Def vs. fire type attacks; +50% Def vs. bows	
+Giant Monstereye	95s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Giant Spider	1m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Giant Toad	15s	-15% Def if attacker can detect beast weakness	
+Giant Wasteland Basilisk	2-4hr		
+Glass Jaguar	75s	-15% Def if attacker can detect beast weakness	
+Goblin	15s		
+Goblin Brigand	15s		
+Goblin Brigand Leader	15s		
+Goblin Brigand Lieutenant	15s		
+Goblin Grave Robber	15s		
+Goblin Lookout	15s		
+Goblin Lord	15s		
+Goblin Raider	15s		
+Goblin Scout	15s		
+Goblin Snooper	15s		
+Goblin Thief	15s		
+Goblin Tomb Raider Leader	15s		
+Gora Werewolf	35s		
+Grandis	95s		
+Granite Golem	95s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	
+Grave Guard	95s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks multiple targets with power 34
+Grave Keeper	15-45s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Grave Wanderer	95s	-20% Def vs. holy attacks	Roots target in place
+Gray Ant	90s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Gray Wolf	15s		
+Green Dryad	15s		
+Green Fungus	15s	-15% Def if attacker can detect plant weakness; -15% Def vs. fire type attacks; +50% Def vs. poison	
+Gremlin	15s		
+Gremlin Scavenger	15s		
+Grey Wolf Elder	n.a.		
+Greystone Golem	15s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Grizzly	15s	-15% Def if attacker can detect animal weakness	
+Grizzly Bear	35s		
+Guard Ant	1m	Won't Sleep	
+Guardian Basilisk	95s	-15% Def if attacker can detect beast weakness	
+Halingka	95s	-15% Def if attacker can detect animal weakness	Gives 9 damage every 5 secs for 2 mins
+Hamrut	95s	-15% Def if attacker can detect beast weakness	Gives 11 damage every 5 secs for 3 mins
+Handmaiden of Orfen	1-3hr	-15% Def if attacker can detect beast weakness	Gives 11 damage every 5 secs for 3 mins
+Hangman Tree	90s	+100% Def vs. derangement	Roots target in place
+Harit Lizardman	95s		
+Harit Lizardman Archer	95s	+25% critical power	Archer; Buffs target (-15% P.Def, +10% Accuracy)
+Harit Lizardman Grunt	95s		Attacks with power 722
+Harit Lizardman Matriarch	95s	+50% chance to land a critical hit; +25% critical power	Attacks with power 2164, but has a chance to miss
+Harit Lizardman Shaman	95s		Gives 11 damage every 5 secs for 3 mins
+Harit Lizardman Warrior	95s		Attacks with power 241 [chance of Stunning target]
+Harpy	95s	-15% Def if attacker can detect beast weakness; -15% Def vs. wind type attacks; -10% Def vs. bows	
+Hatar Hanishee	95s	-15% Def if attacker can detect beast weakness	Roots target in place
+Hatar Ratman Boss	95s		Attacks with power 1249, but has a chance to miss
+Headless Knight	115s	-20% Def vs. holy attacks	Attacks multiple targets with power 26
+Hobgoblin	75s		
+Hook Spider	15s		
+Horror Mist Ripper	90s	-20% Def vs. holy attacks	Attacks with power 26, drains 20%
+Hungry Eye	35s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Hunter Bear	1m		
+Hunter Gargoyle	115s	+130% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 241 [chance of Stunning target]
+Hunter Tarantula	15s		
+Imp	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Imp Elder	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Judge of Marsh	95s	-20% Def vs. holy attacks	Causes target to take 20% more fire damage
+Kaboo Orc	15s		
+Kaboo Orc Archer	15s		Archer
+Kaboo Orc Fighter	15s		
+Kaboo Orc Fighter Leader	15s		
+Kaboo Orc Fighter Lieutenant	15s		
+Kaboo Orc Grunt	15s		
+Kadif Werewolf	90s		
+Kadios	95s	-15% Def if attacker can detect beast weakness	Blocks the target from casting spells
+Kanil Succubus	1-3m		Attacks with power 38, drains 20%
+Karik	1m	+50% chance to land a critical hit; +25% critical power; +20% Def vs. physical attacks; +50% Def vs. bows	Roots target in place
+Karul Bugbear	95s		Attacks with power 73 [chance of Stunning target]
+Kasha Bear	15s		
+Kasha Blade Spider	15s		
+Kasha Fang Spider	15s		
+Kasha Spider	15s		
+Kasha Timber Wolf	15s		
+Kasha Wolf	15s		
+Kaysha Herald Of Ikaros	1-3hr		
+Kirunak'S Guards	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Kobold Looter Bepook	2-4hr		
+Kranrot	95s	-15% Def if attacker can detect beast weakness	Attacks with power 241 [chance of Stunning target]
+Krator	1-7m	+50% Def vs. bows; +20% Def vs. magic	Attacks with power 52
+Kronbe Spider	95s	-15% Def if attacker can detect beast weakness	
+Kuran Kobold	1-3m		
+Kuran Kobold Warrior	1-3m		
+Kuruka Ratman	15-45s		
+Kuruka Ratman Hunter	15-45s		
+Lafi Lizardman	1-3m		
+Lafi Lizardman Scout	1-3m		Archer
+Lakin	95s		Attacks with power 139 [chance of Stunning target]
+Lakin Salamander	1-3m	-15% Def vs. water type attacks; +50% Def vs. fire type attacks	
+Lakin Undine	1-3m	+50% Def vs. water type attacks; -15% Def vs. fire type attacks	Attacks with power 26
+Langk Lizardman	35s		
+Langk Lizardman Leader	35s		
+Langk Lizardman Lieutenant	35s		
+Langk Lizardman Scout	35s		
+Langk Lizardman Warrior	35s	-20% Def vs. holy attacks	
+Leogul	1-7m		Decreases target's P.Atk (30%)
+Lesser Basilisk	95s	-15% Def if attacker can detect beast weakness	
+Lesser Dark Horror	15s	-20% Def vs. holy attacks	
+Lesser Giant Elder	1-7m		Buffs target (+8% P.Atk, +8% P.AtkSpd, -15% P.Def)
+Lesser Giant Mage	1-7m		Gives 13 damage every 5 secs for 3 mins
+Lesser Giant Scout	1-7m	+50% chance to land a critical hit	Archer; Attacks with power 85
+Lesser Giant Soldier	1-7m		Attacks with power 379 [chance of Stunning target]
+Lesser Succubus	45-75s		Chance of putting target to sleep
+Lesser Succubus Tilfo	45-75s		Roots target in place
+Lesser Succubus Turen	45-75s		Chance of putting target to sleep
+Leto Lizardman	95s		
+Leto Lizardman Archer	95s		Archer
+Leto Lizardman Overlord	95s		
+Leto Lizardman Shaman	95s		Attacks with power 38, drains 20%
+Leto Lizardman Soldier	95s		
+Leto Lizardman Warrior	95s		
+Liele	95s	+50% Def vs. water type attacks; -15% Def vs. fire type attacks	Attacks with power 52
+Liele Elder	95s	+50% Def vs. water type attacks; -15% Def vs. fire type attacks	Attacks with power 68
+Limal Karinness	2-6m		Chance of putting target to sleep
+Lirein	15s	+50% Def vs. wind type attacks; -15% Def vs. earth type attacks	Reduces target's P.AtkSpd 10%
+Lirein Elder	15s	+50% Def vs. wind type attacks; -15% Def vs. earth type attacks	Reduces target's P.AtkSpd 10%
+Longtail Keltir	15s	-15% Def if attacker can detect animal weakness	
+Lord of Plain	270s		
+Lycanthrope	15s		
+Madness Beast	2-4hr		
+Magical Weaver	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	Drains 34 mana from target
+Malex Herald Of Dagoniel	2-4hr		
+Malruk Berserker	2-6m	-20% Def vs. holy attacks	Attacks with power 1136
+Malruk Knight	2-6m	-20% Def vs. holy attacks	Attacks with power 379 [chance of Stunning target]
+Malruk Lord	2-6m	-20% Def vs. holy attacks	Gives 10 damage every 5 secs for 2 mins
+Malruk Soldier	2-6m	-20% Def vs. holy attacks; +50% chance to land a critical hit; +25% critical power	Attacks with power 3408, but has a chance to miss
+Malruk Succubus	115s		Drains 134 mana from target
+Malruk Succubus Turen	115s		Attacks target with power 41, reduces target's movement 30%
+Manashen Gargoyle	95s	+50% Def vs. bows	Attacks with power 73 [chance of Stunning target]
+Mandragora Blossom	90s	-15% Def if attacker can detect plant weakness; -15% Def vs. fire type attacks; +50% Def vs. poison	
+Mandragora Sapling	90s	-15% Def if attacker can detect plant weakness; -15% Def vs. fire type attacks; +50% Def vs. poison	
+Mandragora Sprout	90s	-15% Def if attacker can detect plant weakness; -15% Def vs. fire type attacks; +50% Def vs. poison	
+Maraku Werewolf	15s		
+Maraku Werewolf Chieftain	15s		
+Marsh Drake	95s	-15% Def if attacker can detect dragon weakness	Attacks target with power 68
+Marsh Spider	90s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 6 damage every 5 secs for 3 mins
+Marsh Stakato	90s	-15% Def vs. fire type attacks	Attacks with power 219
+Marsh Stakato Drone	90s	-15% Def vs. fire type attacks	Buffs self (+12% P.Atk)
+Marsh Stakato Noble	n.a.		
+Marsh Stakato Soldier	90s	-15% Def vs. fire type attacks	
+Marsh Stakato Worker	90s	-15% Def vs. fire type attacks	Attacks with power 219
+Marsh Stalker	95s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Causes target to take 20% more fire damage
+Marsh Zombie	15s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Marsh Zombie Lord	15s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Medusa	95s	-15% Def if attacker can detect beast weakness	
+Merkenis Escort	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Messenger Escort	n.a.		
+Mineshaft Bat	45-75s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Mirror	95s	-15% Def if attacker can detect beast weakness; bounces 20 damage back to attacker on each hit	Dispells all buffs/debuffs
+Misery Skeleton	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Mist Terror	45-75s	-20% Def vs. holy attacks	
+Monster Eye	45-75s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Monster Eye Destroyer	95s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Monster Eye Gazer	75s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Monster Eye Searcher	75s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Monster Eye Tracker	45-75s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Monster Eye Watcher	95s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Moonstone Beast	15s		
+Mordeo	1-7m		
+Mountain Fungus	15s	-15% Def vs. fire type attacks; +50% Def vs. poison	
+Necrosentinel Archer	n.a.	-20% Def vs. holy attacks	Archer
+Necrosentinel Guard	2-4hr	-20% Def vs. holy attacks	
+Neer Crawler	90s	-20% Def vs. holy attacks	
+Neer Ghoul Berserker	90s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Nightmare Flyer	n.a.	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Nightmare Weaver	45-75s		
+Noble Ant	1-5m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Noble Ant Leader	1-5m	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Nurse Ant	n.a.	Cannot be Held, Paralyzed, Confused or Slept	
+Oblivion Watcher	n.a.	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Obsidian Golem	15s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Oel Mahum	95s		
+Oel Mahum Warrior	95s		
+Oel Mahum Witch Doctor	95s		Attacks with power 68
+Ol Mahum Captain	35s		Buffs clan member (+12% P.Def)
+Ol Mahum Captain	2m		
+Ol Mahum Commander	35s		Buffs clan member (+12% P.Atk)
+Ol Mahum Deserter	35s		
+Ol Mahum General	90s		
+Ol Mahum Guard	90s		
+Ol Mahum Guerilla	90s		
+Ol Mahum Legionnaire	35s		
+Ol Mahum Marksman	90s		Archer
+Ol Mahum Novice	1m		
+Ol Mahum Officer	90s		
+Ol Mahum Patrol	90s		Archer
+Ol Mahum Patrolman	35s		
+Ol Mahum Raider	90s		
+Ol Mahum Ranger	75s		Archer
+Ol Mahum Recruit	90s		
+Ol Mahum Reserve	35s		
+Ol Mahum Sergeant	90s		
+Ol Mahum Shooter	35s		Archer
+Ol Mahum Straggler	90s		
+Ol Mahum Supplier	90s		
+Omen Beast	45-75s	-15% Def if attacker can detect beast weakness	
+Opal Beast	45-75s		
+Orc	15s		
+Orc Archer	15s		Archer
+Orc Fighter	15s		
+Orc Fighter Leader	15s		Buffs self (+8% P.Atk)
+Orc Grunt	15s		
+Orc Lieutenant	15s		
+Ore Bat	45-75s	-15% Def if attacker can detect beast weakness	
+Orfen	28-68hr	Cannot be Held, Paralyzed, Confused or Slept; -100% Def vs. fire type attacks; +80% Def vs. bows	Aggro range x4; Help range x7; Corpse lasts 5 mins
+Paliote	95s	+20% Def vs. physical attacks	Attacks target with power 41, reduces target's movement 30%
+Patin Archer	1-3m	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Patriarch Kuroboros	2-4hr		Gives 8 damage every 5 secs for 3 mins
+Perum	1-7m	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 52
+Pincer Spider	15s		
+Pincher	35s	-15% Def if attacker can detect bug weakness	
+Pinrul	35s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Pirate Captain Uthanka	2-4hr		
+Pitchstone Golem	45-75s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Plando	2-6m		Archer; Attacks with power 3030
+Plunder Tarantula	15s		
+Poison Spider	15s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	Gives 3 damage every 5 secs for 3 mins
+Porta	1-7m	+130% Def vs. bows; +30% Def vs. daggers; +10% M.Def; -10% Def vs. blunts	
+Prarie Keltir	15s	-15% Def if attacker can detect animal weakness	
+Premo	1-7m	-15% Def if attacker can detect beast weakness	Attacks with power 139 [chance of Stunning target]
+Priest Of Kuroboros	2-4hr		
+Prowler	15s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Puma	15s		
+Puncher	95s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	
+Punishment of Undead	95s	-20% Def vs. holy attacks	Attacks multiple targets with power 34
+Pytan	25-35m		
+Pytan Knight	n.a.	-20% Def vs. holy attacks	Gives 10 damage every 5 secs for 2 mins
+Queen Ant	21-53hr	Cannot be Held, Paralyzed, Confused or Slept; -50% Def vs. fire type attacks; +80% Def vs. bows	Aggro range x2; Help range x7; Corpse lasts 5 mins
+Queen Ant Larva	1m	Cannot be Held, Paralyzed, Confused or Slept	Help range x15
+Quicksilver Beast	15-45s		
+Raging Spartoi	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Ragna Orc Overlord	3m		
+Ragna Orc Seer	3m		
+Raikel	1m	Cannot be Held, Paralyzed, Confused or Slept	Aggro range x15
+Raikel Leos	n.a.	Cannot be Held, Paralyzed, Confused or Slept	Aggro range x15
+Rakeclaw Imp	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Rakeclaw Imp Chieftain	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Rakeclaw Imp Hunter	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Rampage Golem	n.a.	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	
+Ratman Hunter	35s		
+Ratman Spy	35s		
+Ratman Warrior	35s		
+Red Bear	35s	-15% Def if attacker can detect animal weakness	
+Red Keltir	15s	-15% Def if attacker can detect animal weakness	
+Red Scavenger Spider	15s		
+Redeye Bat	15s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Relic Spartoi	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Relic Werewolf	45-75s		
+Revenant of Sir Calibus	2-4hr	-20% Def vs. holy attacks	Attacks with power 722
+Revenant of The Executed	n.a.	-20% Def vs. holy attacks	
+Riba	1m	Cannot be Held, Paralyzed, Confused or Slept	Aggro range x15
+Riba Iren	1m	Cannot be Held, Paralyzed, Confused or Slept	Aggro range x15
+Ricenseo	1-7m		Roots target in place
+Ritmal Swordsman	1-3m	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Road Scavenger	95s		
+Rotting Golem	95s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 139 [chance of Stunning target]
+Rotting tree	95s	-40% Def vs. holy attacks; -10% Def vs. blunts	Roots target in place
+Rowin Undine	1-3m	+50% Def vs. water type attacks; -15% Def vs. fire type attacks	Attacks with power 38, drains 20%
+Roxide	15-25m		
+Royal Cave Servant	115s	-40% Def vs. holy attacks; -10% Def vs. blunts	Attacks with power 2164, but has a chance to miss
+Ruin Bat	55s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Ruin Imp	55s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Ruin Imp Elder	55s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Ruin Spartoi	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Ruin Zombie	55s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Ruin Zombie Leader	55s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Salamander	1m	-15% Def vs. water type attacks; +50% Def vs. fire type attacks	
+Salamander Rowin	1-3m	-15% Def vs. water type attacks; +50% Def vs. fire type attacks	
+Satyr	95s		
+Satyr Elder	95s		
+Scarlet Salamander	15-45s	-15% Def vs. water type attacks; +50% Def vs. fire type attacks	
+Scarlet Salamander Elder	15-45s	-15% Def vs. water type attacks; +50% Def vs. fire type attacks	
+Scavenger Bat	55s	-15% Def vs. wind type attacks; -10% Def vs. bows	
+Scavenger Spider	15s		
+Scavenger Wererat	15s		
+Scout of Plain	n.a.		Archer
+Selu Lizardman Scout	35s		
+Selu Lizardman Warrior	35s		
+Sentinel Of Water	1-3m		
+Shackle	115s	-20% Def vs. holy attacks	Attacks with power 52, drains 20%
+Shade Horror	45-75s	-20% Def vs. holy attacks	
+Shaman of Plain	n.a.		
+Sharuk'S Henchmen	n.a.		
+Shield Skeleton	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Silenos	95s		
+Silent Horror	45-75s	-20% Def vs. holy attacks	
+Sirocco Gargoyle	n.a.	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	
+Skeleton	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Skeleton Archer	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Skeleton Bowman	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Skeleton Hunter	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Skeleton Hunter Archer	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Skeleton Infantryman	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Skeleton Lord	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Skeleton Marauder	95s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Skeleton Marksman	45-75s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Skeleton Raider	95s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Skeleton Scout	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	Archer
+Slave Skeleton	15-45s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Snipe	11-19m	-15% Def if attacker can detect beast weakness	
+Soldier Of Kuroboros	n.a.		
+Sorrow Maiden	90s	-20% Def vs. holy attacks	Attacks with power 26
+Soul Scavenger	1-3hr	-20% Def vs. holy attacks	Attacks multiple targets with power 26
+Specter	90s	-20% Def vs. holy attacks	
+Spore Fungus	15s	-15% Def vs. fire type attacks; +50% Def vs. poison	
+Spore Zombie	95s	-40% Def vs. holy attacks; -10% Def vs. blunts	Drains 105 mana from target
+Squire of Calibus	n.a.	-20% Def vs. holy attacks	
+Stakato Queen Zyrnna	2-4hr		
+Stinger Wasp	90s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Stink Zombie	45-75s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Stone Giant	45-75s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Stone Golem	15s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Stone Guardian	15s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Stone Soldier	15s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Strain	90s	-20% Def vs. holy attacks	
+Sukar Wererat	45-75s		
+Sukar Wererat Chief	1-3hr		Attacks with power 219
+Sukar Wererat Leader	45-75s		
+Sukar Wererat Warrior	n.a.		
+Taik Orc	95s		
+Taik Orc Archer	95s		Archer; Attacks with power 1110
+Taik Orc Captain	95s		Attacks with power 417
+Taik Orc Seeker	95s		Attacks with power 241 [chance of Stunning target]
+Taik Orc Shaman	95s		Heals with power 362
+Taik Orc Supply	95s		Attacks with power 722
+Taik Orc Supply Leader	95s		Attacks with power 241 [chance of Stunning target]
+Taik Orc Warrior	95s		Attacks with power 417
+Tainted Zombie	45-75s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Tairim	95s		Buffs self (+15% P.Def)
+Talakin	150s		
+Talakin Archer	n.a.		Archer
+Talakin Raider	n.a.		
+Talon Spider	15s	-15% Def if attacker can detect bug weakness; -15% Def vs. fire type attacks	
+Tamlin Orc	95s		
+Tamlin Orc Archer	95s		Archer; Attacks with power 1110
+Tarlk Basilisk	95s	-15% Def if attacker can detect beast weakness	
+Tarlk Bugbear	95s		
+Tarlk Bugbear High Warrior	95s		
+Tarlk Bugbear Warrior	95s		
+Thunder Wyrm	115s	-15% Def if attacker can detect dragon weakness; +50% Def vs. bows	
+Tiger Hornet	2-4hr	-15% Def vs. fire type attacks	
+Timak Orc	95s		
+Timak Orc Archer	95s		Archer; Attacks with power 1110
+Timak Orc Overlord	95s		Buffs self with Wolf
+Timak Orc Shaman	95s		Attacks target with power 31, reduces target's movement 30%
+Timak Orc Soldier	95s		Attacks with power 417
+Timak Orc Troop Archer	n.a.		Archer; Attacks with power 1110
+Timak Orc Troop Leader	200s		Attacks with power 1136
+Timak Orc Troop Shaman	n.a.		Reduces target's movement speed 50%
+Timak Orc Troop Warrior	n.a.		Buffs self (+33% P.AtkSpd)
+Timak Orc Warrior	95s		Buffs self (+33% P.AtkSpd)
+Toad Lord	30s	-15% Def if attacker can detect beast weakness	
+Torfe	1-7m		Attacks with power 52, drains 20%
+Tracker Sharuk	2-4hr		Attacks with power 219
+Tracker Skeleton	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Tracker Skeleton Leader	55s	-40% Def vs. holy attacks; -10% Def vs. blunts	
+Trisalim Escort	n.a.	-15% Def if attacker can detect beast weakness	
+Trisalim Spider	95s	-15% Def if attacker can detect beast weakness	
+Trisalim Tarantula	95s	-15% Def if attacker can detect beast weakness	Gives 8 damage every 5 secs for 3 mins
+Trives	95s		Roots target in place
+Tulben	95s	-15% Def if attacker can detect beast weakness	Gives 9 damage every 5 secs for 2 mins
+Tumran Bugbear	55s		
+Tumran Bugbear Warrior	55s		
+Tunath Orc Marksman	45-75s		Archer
+Tunath Orc Warrior	45-75s		
+Turak Bugbear	95s		
+Turak Bugbear Warrior	95s		
+Turek Orc Archer	90s		Archer
+Turek Orc Elder	90s		Attacks with power 26, drains 20%
+Turek Orc Footman	90s		
+Turek Orc Sentinel	90s		
+Turek Orc Shaman	90s		Attacks with power 26, drains 20%
+Turek Orc Skirmisher	90s		
+Turek Orc Supplier	90s		
+Turek Orc Warlord	90s		
+Turek War Hound	90s		
+Twink Puma	15s		
+Tyrant	95s	-15% Def if attacker can detect beast weakness; -15% Def vs. fire type attacks	
+Tyrant Kingpin	95s	-15% Def if attacker can detect beast weakness; -15% Def vs. fire type attacks	
+Undead Slave	15-45s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Undine	1m	+50% Def vs. water type attacks; -15% Def vs. fire type attacks	Attacks with power 18
+Unicorn	95s		
+Unicorn Elder	95s		Attacks with power 68
+Uthanka Pirate	n.a.		
+Utuku Orc	15s		
+Utuku Orc Archer	15s		Archer
+Utuku Orc Grunt	15s		
+Vaiss Orc	45-75s		
+Vaiss Orc Lieutenant	45-75s		
+Validus	1-7m		
+Valley Treant	95s		Roots target in place
+Valley treant Elder	95s		Roots target in place
+Vampire Bat	45-75s	-15% Def if attacker can detect animal weakness; -15% Def vs. wind type attacks; -10% Def vs. bows	
+Vanor Silenos	95s		Attacks with power 139 [chance of Stunning target]
+Vanor Silenos Cheiftain	95s		Heals with power 362
+Vanor Silenos Grunt	95s		Attacks with power 139 [chance of Stunning target]
+Vanor Silenos Scout	95s	+25% critical power	Attacks with power 139 [chance of Stunning target]
+Vanor Silenos Shaman	95s		Gives 20 damage every sec for 15 mins
+Vanor Silenos Warrior	95s	+4 evasion	Attacks with power 139 [chance of Stunning target]
+Varikan Brigand	n.a.		
+Varikan Brigand Leader	1-3hr		
+Veelan Bugbear	55s		
+Veelan Bugbear Warrior	55s		
+Vrykolakas	2-4hr		
+Vrykolakas Wolfkin	n.a.		
+Vuku Orc	35s		
+Vuku Orc Archer	35s		Archer
+Vuku Orc Fighter	35s		
+Wandering Eye	35s	-15% Def vs. wind type attacks; -10% Def vs. bows	Roots target in place
+Warrior of Plain	n.a.		
+Wasteland Basilisk	n.a.		
+Weird Drake	95s	-15% Def if attacker can detect dragon weakness; +50% Def vs. bows	Attacks multiple targets with power 26
+Wererat	45-75s		
+Werewolf	15s		
+Werewolf Chieftain	15s		
+Werewolf Hunter	15s		
+Whinstone Golem	15s	+70% Def vs. bows; +30% Def vs. daggers; -10% Def vs. blunts	Attacks with power 18
+Whispering Wind	35s	+50% Def vs. wind type attacks; -15% Def vs. earth type attacks	Chance of putting target to sleep
+White Fang	2-4hr		
+Wild Desperado	3m	-15% Def if attacker can detect bug weakness	
+Will-O-Wisp	45-75s		Attacks with power 18
+Windsus	95s	-15% Def if attacker can detect beast weakness	
+Wolf	15s	-15% Def if attacker can detect animal weakness	
+Wyrm	95s	-15% Def if attacker can detect dragon weakness; +50% Def vs. bows	
+Yellow Hornet	n.a.	-15% Def vs. fire type attacks	
+Young Brown Keltir	15s	-15% Def if attacker can detect animal weakness	
+Young Keltir	15s	-15% Def if attacker can detect animal weakness	
+Young Prarie Keltir	15s	-15% Def if attacker can detect animal weakness	
+Young Red Keltir	15s	-15% Def if attacker can detect animal weakness	
+Zombie Soldier	55s	-20% Def vs. holy attacks	Attacks with power 18, drains 20%
+Zombie Warrior	55s	-20% Def vs. holy attacks	Attacks with power 26, drains 20%

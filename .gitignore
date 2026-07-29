@@ -1,0 +1,9 @@
+gemini_api_key.txt
+gemini_model.txt
+gemini_debug.log
+window_positions.ini
+npc_overrides.txt
+player_class_overrides.txt
+L2TargetOverlay.exe
+*.zip
+update_v*/
