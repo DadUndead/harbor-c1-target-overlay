@@ -1,4 +1,4 @@
-L2 Target Overlay (Harbor C1) - v1.3.0
+L2 Target Overlay (Harbor C1) - v1.4.0
 ======================================
 
 (Русская версия: README.txt)
@@ -42,13 +42,13 @@ RUNNING IT
    itself with admin rights automatically, that's normal.
 3. Right after launch, a small menu window appears in the top-right
    corner (left of the radar) with checkboxes "Timer", "Mob Info",
-   "Translator", "Party" and a "☰" button on the right. All checkboxes
-   are off by default - check whichever windows you want shown. The "☰"
-   button opens a menu with "Calibrate" (see CALIBRATION below) and
-   "Gemini API..." (enter your personal key, see the translate section).
-   Shift+ScrollLock hides the menu and all windows at once, pressing it
-   again brings them back. Checked boxes are remembered and restored on
-   the next launch.
+   "Translator", "Party", "Target" and a "☰" button on the right. All
+   checkboxes are off by default - check whichever windows you want
+   shown. The "☰" button opens a menu with "Calibrate" (see CALIBRATION
+   below), "Gemini API..." (enter your personal key, see the translate
+   section) and "Exit" (closes the program). Shift+ScrollLock hides the
+   menu and all windows at once, pressing it again brings them back.
+   Checked boxes are remembered and restored on the next launch.
 4. (With "Mob Info" checked) Target a monster - a compact line "Name
    Level" appears (an asterisk after the level, e.g. "Tamlin Ork Archer
    42*", means the mob is aggressive), with a "v" button next to it.
@@ -224,6 +224,17 @@ moved elsewhere, press Home to save a calibration screenshot
 (%TEMP%\l2_chat_capture_debug.bmp) and check whether the capture window
 lines up exactly with the chat area; whoever set up the program can
 adjust the coordinates (CHAT_CAPTURE_X/Y/W/H at the top of the source).
+
+FIND NPC BY NAME
+------------------
+Check "Target" in the menu - a small window with a text field and a "▶"
+button appears. Type an NPC's name (e.g. for a quest or a specific mob)
+and click "▶" (or press Enter right in the field) - this sends the
+command "/target Name" into game chat once. If that NPC is currently
+nearby and visible to the server, your target switches to it. This is a
+single manual action per click, not an automated repeating search - if
+it doesn't work the first time (the NPC isn't in range/line of sight
+yet), just try again a bit later or after moving closer.
 
 BUFF TIMER
 ----------

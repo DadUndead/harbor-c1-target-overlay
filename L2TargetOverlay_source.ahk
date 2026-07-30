@@ -100,7 +100,7 @@ GEMINI_MODEL_DEFAULT := "gemini-3.5-flash-lite"   ; Google's free-tier model nam
     ; editing a text file instead of needing a recompile
 GEMINI_LOG_FILE := A_ScriptDir "\gemini_debug.log"   ; every Gemini failure's real response body gets logged here for troubleshooting
 
-APP_VERSION := "1.3.0"
+APP_VERSION := "1.4.0"
 UPDATE_GITHUB_OWNER := "dadundead"
 UPDATE_GITHUB_REPO := "harbor-c1-target-overlay"
 
@@ -241,6 +241,12 @@ BUFF_TIMER_Y := Round(2 * SCALE_Y)
 BUFF_TIMER_W := 224
 BUFF_TIMER_DEFAULT_MIN := 20
 
+; -------------------------------- FIND NPC -------------------------------
+; Types /target <name> into game chat, once per click.
+FIND_OVERLAY_X := Round(400 * SCALE_X)
+FIND_OVERLAY_Y := Round(40 * SCALE_Y)
+FIND_OVERLAY_W := 172
+
 g_buff_running := false
 g_buff_end_tick := 0
 g_buff_duration_min := BUFF_TIMER_DEFAULT_MIN
@@ -253,7 +259,7 @@ g_buff_blink_count := 0
 ; Small control panel, top-right corner just left of the radar/compass.
 ; Checkboxes show/hide the other three windows independently - all off by
 ; default, so nothing but this menu appears until you turn something on.
-MENU_W := 400
+MENU_W := 478
 MENU_X := SCREEN_W - MENU_W - 110   ; leaves room for the radar to its right
 MENU_Y := Round(5 * SCALE_Y)
 
@@ -261,6 +267,7 @@ g_show_target := false
 g_show_timer  := false
 g_show_chat   := false
 g_show_calibrate := false
+g_show_find := false
 
 ; --------------------------------------------------------------------------
 
@@ -1416,6 +1423,27 @@ g_buffGui.Show("x" buffPos.x " y" buffPos.y " w" BUFF_TIMER_W " h36 NoActivate H
 WinSetTransparent(230, g_buffGui)
 
 ;===============================================================================
+; FIND NPC OVERLAY (separate window) - type a name and click ▶ to send
+; /target <name> into game chat once. A single manual action per click,
+; same spirit as chat Translate/Send - not an automated repeating search.
+;===============================================================================
+
+g_findGui := Gui("+AlwaysOnTop -Caption +ToolWindow", "L2Find")
+g_findGui.BackColor := "202020"
+; Edit controls render with their own opaque white background regardless
+; of the Gui's own color - cSilver (light gray) text there is nearly
+; unreadable, same issue the party-nickname edit fields had. Dark text
+; instead, matching that established fix.
+g_findGui.SetFont("s10 c000000", "Consolas")
+g_findNameEdit := g_findGui.AddEdit("x8 y7 w120 h22", "")
+g_findGui.SetFont("s12 cSilver", "Segoe UI Symbol")
+g_findBtn := g_findGui.AddButton("x134 y6 w28 h24", "▶")
+g_findBtn.OnEvent("Click", f_on_find_click)
+findPos := f_load_saved_pos("find", FIND_OVERLAY_X, FIND_OVERLAY_Y)
+g_findGui.Show("x" findPos.x " y" findPos.y " w" FIND_OVERLAY_W " h36 NoActivate Hide")
+WinSetTransparent(230, g_findGui)
+
+;===============================================================================
 ; PARTY CLASSES OVERLAY (separate window) - C1's party list shows no class
 ; info, which buffers need. "Scan" OCRs the party member list and shows
 ; each nick's class next to it (looked up from player_classes.txt); unknown
@@ -1690,7 +1718,9 @@ g_chkTranslate := g_menuGui.AddCheckbox("x177 y8 w95 h20", "Translator")
 g_chkTranslate.OnEvent("Click", f_on_chk_translate)
 g_chkParty := g_menuGui.AddCheckbox("x279 y8 w80 h20", "Party")
 g_chkParty.OnEvent("Click", f_on_chk_party)
-g_menuBtn := g_menuGui.AddButton("x361 y6 w30 h22", "☰")
+g_chkFind := g_menuGui.AddCheckbox("x361 y8 w70 h20", "Target")
+g_chkFind.OnEvent("Click", f_on_chk_find)
+g_menuBtn := g_menuGui.AddButton("x438 y6 w30 h22", "☰")
 g_menuBtn.OnEvent("Click", f_on_menu_btn_click)
 menuPos := f_load_saved_pos("menu", MENU_X, MENU_Y)
 g_menuGui.Show("x" menuPos.x " y" menuPos.y " w" MENU_W " h36 NoActivate")
@@ -1749,6 +1779,8 @@ f_on_menu_btn_click(*) {
     ctxMenu := Menu()
     ctxMenu.Add("Calibrate", f_start_calibration)
     ctxMenu.Add("Gemini API...", f_show_gemini_key_popup)
+    ctxMenu.Add()   ; separator
+    ctxMenu.Add(T("exit_menu_item"), (*) => ExitApp())
     ctxMenu.Show()
 }
 
@@ -1859,6 +1891,17 @@ f_on_chk_party(ctrl, *) {
         g_partyGui.Hide()
 }
 
+f_on_chk_find(ctrl, *) {
+    global g_show_find, g_findGui, WINDOW_POS_FILE
+    g_show_find := ctrl.Value
+    IniWrite(g_show_find, WINDOW_POS_FILE, "checkboxes", "find")
+    if g_show_find {
+        g_findGui.Show("NoActivate")
+    } else {
+        g_findGui.Hide()
+    }
+}
+
 ; restore last session's checkbox state - each window is shown immediately
 ; if it was left checked, same as if the user had just clicked it.
 g_show_timer := IniRead(WINDOW_POS_FILE, "checkboxes", "timer", 0) + 0
@@ -1866,10 +1909,12 @@ g_show_target := IniRead(WINDOW_POS_FILE, "checkboxes", "mobinfo", 0) + 0
 g_show_chat := IniRead(WINDOW_POS_FILE, "checkboxes", "translate", 0) + 0
 g_show_calibrate := IniRead(WINDOW_POS_FILE, "checkboxes", "calibrate", 0) + 0
 g_show_party := IniRead(WINDOW_POS_FILE, "checkboxes", "party", 0) + 0
+g_show_find := IniRead(WINDOW_POS_FILE, "checkboxes", "find", 0) + 0
 g_chkTimer.Value := g_show_timer
 g_chkMobInfo.Value := g_show_target
 g_chkTranslate.Value := g_show_chat
 g_chkParty.Value := g_show_party
+g_chkFind.Value := g_show_find
 if g_show_timer
     g_buffGui.Show("NoActivate")
 if g_show_target
@@ -1886,6 +1931,8 @@ if g_show_calibrate {
 }
 if g_show_party
     g_partyGui.Show("NoActivate")
+if g_show_find
+    g_findGui.Show("NoActivate")
 
 ;===============================================================================
 ; DRAG-TO-MOVE for all four borderless (-Caption) overlay windows. There's
@@ -1898,10 +1945,10 @@ if g_show_party
 ;===============================================================================
 
 f_is_draggable_hwnd(hwnd) {
-    global g_gui, g_chatGui, g_buffGui, g_menuGui, g_partyGui, g_zoneTargetGui, g_zoneChatGui, g_zonePartyGui
+    global g_gui, g_chatGui, g_buffGui, g_menuGui, g_partyGui, g_findGui, g_zoneTargetGui, g_zoneChatGui, g_zonePartyGui
     root := DllCall("GetAncestor", "ptr", hwnd, "uint", 2, "ptr")   ; GA_ROOT
     known := (root = g_gui.Hwnd || root = g_chatGui.Hwnd || root = g_buffGui.Hwnd || root = g_menuGui.Hwnd
-        || root = g_partyGui.Hwnd || root = g_zoneTargetGui.Hwnd || root = g_zoneChatGui.Hwnd || root = g_zonePartyGui.Hwnd)
+        || root = g_partyGui.Hwnd || root = g_findGui.Hwnd || root = g_zoneTargetGui.Hwnd || root = g_zoneChatGui.Hwnd || root = g_zonePartyGui.Hwnd)
     if !known
         return false
     cls := ""
@@ -2049,7 +2096,7 @@ OnMessage(0x201, f_wm_lbuttondown)   ; WM_LBUTTONDOWN
 ; windows' resize no longer goes through this (it's the manual path above
 ; now), but their move still does, same as the other three windows.
 f_wm_exitsizemove(wParam, lParam, msg, hwnd) {
-    global g_gui, g_chatGui, g_buffGui, g_menuGui, g_partyGui, g_zoneTargetGui, g_zoneChatGui, g_zonePartyGui, WINDOW_POS_FILE
+    global g_gui, g_chatGui, g_buffGui, g_menuGui, g_partyGui, g_findGui, g_zoneTargetGui, g_zoneChatGui, g_zonePartyGui, WINDOW_POS_FILE
 
     if (hwnd = g_zoneTargetGui.Hwnd || hwnd = g_zoneChatGui.Hwnd || hwnd = g_zonePartyGui.Hwnd) {
         f_persist_zone_rect(hwnd)
@@ -2060,7 +2107,8 @@ f_wm_exitsizemove(wParam, lParam, msg, hwnd) {
         : (hwnd = g_chatGui.Hwnd) ? "chat"
         : (hwnd = g_buffGui.Hwnd) ? "buff"
         : (hwnd = g_menuGui.Hwnd) ? "menu"
-        : (hwnd = g_partyGui.Hwnd) ? "party" : ""
+        : (hwnd = g_partyGui.Hwnd) ? "party"
+        : (hwnd = g_findGui.Hwnd) ? "find" : ""
     if (name = "")
         return
     WinGetPos(&x, &y, , , "ahk_id " hwnd)
@@ -2784,12 +2832,12 @@ f_parse_gemini_chat_json(jsonArr) {
 g_last_game_hwnd := 0
 
 f_track_active_window() {
-    global g_last_game_hwnd, g_gui, g_chatGui, g_buffGui, g_menuGui, g_zoneTargetGui, g_zoneChatGui
+    global g_last_game_hwnd, g_gui, g_chatGui, g_buffGui, g_menuGui, g_findGui, g_zoneTargetGui, g_zoneChatGui
     active := WinExist("A")
     if !active
         return
     if (active = g_gui.Hwnd || active = g_chatGui.Hwnd || active = g_buffGui.Hwnd || active = g_menuGui.Hwnd
-        || active = g_zoneTargetGui.Hwnd || active = g_zoneChatGui.Hwnd)
+        || active = g_findGui.Hwnd || active = g_zoneTargetGui.Hwnd || active = g_zoneChatGui.Hwnd)
         return
     g_last_game_hwnd := active
 }
@@ -2799,17 +2847,72 @@ SetTimer(f_track_active_window, 500)
 ; L2's chat input box opens/focuses on a bare Enter press (confirmed
 ; behavior on this server) - so no pixel-calibrated click is needed: just
 ; make sure the game window has keyboard focus, press Enter to open chat,
-; type the translated text, and press Enter again to submit it.
+; type the translated text, and press Enter again to submit it. Focus
+; ends up back on the game window afterward, same as if the player had
+; typed it themselves - nothing extra needed for that.
 f_send_to_game_chat(text) {
     global g_last_game_hwnd
-    if g_last_game_hwnd
+    ; confirmed by testing: even a keyboard-only trigger (Enter in the
+    ; name field, no click on any button) still reproduces this, as long
+    ; as the mouse cursor is left sitting wherever it was after focusing
+    ; that field - so the client is reacting to CURRENT cursor position
+    ; at the moment it regains focus/keyboard input, not to any specific
+    ; click event. Parking the cursor over the player's own status panel
+    ; (always top-left) first means whatever it reacts to is a harmless
+    ; self-target instead of a run-across-the-map click-to-move.
+    MouseGetPos(&origMouseX, &origMouseY)
+    MouseMove(2, 2, 0)
+    ; WinActivate() doesn't block until the window is actually focused -
+    ; if the old client is slow to process WM_ACTIVATE, a fixed short
+    ; Sleep() could let the Escape/Enter/text below fire before the game
+    ; is really the focused window, so they'd land wherever focus actually
+    ; was instead (which could still open/not-open chat unpredictably). If
+    ; chat never actually opens, the typed text lands as raw keystrokes in
+    ; the game world instead, where individual letters are bound to
+    ; skills/actions - manual typing doesn't hit this because a human
+    ; naturally waits to see chat open before typing. WinWaitActive
+    ; confirms activation actually completed before proceeding, instead of
+    ; hoping a guessed delay was long enough.
+    if (g_last_game_hwnd && !WinActive("ahk_id " g_last_game_hwnd)) {
         WinActivate("ahk_id " g_last_game_hwnd)
+        WinWaitActive("ahk_id " g_last_game_hwnd, , 1)
+    }
+    Sleep(100)
+    ; Escape first, unconditionally - Enter TOGGLES the chat input rather
+    ; than always opening it, so if it happened to already be open (e.g.
+    ; left open from typing a message manually) the "open chat" Enter below
+    ; would instead submit/close it, and the text meant for chat would then
+    ; land as raw keystrokes in the game world instead (individual letters
+    ; are bound to skills/actions in L2, so this could visibly "do things"
+    ; in-game). Escape reliably closes chat if it was open and is a no-op
+    ; if it wasn't, so the Enter that follows can assume a known state.
+    Send("{Escape}")
     Sleep(50)
     Send("{Enter}")
-    Sleep(80)
-    SendText(text)
+    Sleep(150)
+    ; SendText() injects Unicode text via a message-based path rather than
+    ; real key-down/up events - this client apparently reads keyboard input
+    ; at a lower level (like DirectInput) that never sees SendText at all,
+    ; so the chat box stayed empty and something else (the client's normal,
+    ; un-intercepted keybinds, or leftover mouse state) reacted instead,
+    ; producing an unrelated in-game action (e.g. click-to-move firing).
+    ; Send's "{Text}" sub-mode gets the same "no need to escape special
+    ; characters" safety as SendText, but goes through the same real
+    ; hardware-level key event path as every other Send() call here.
+    Send("{Text}" text)
     Sleep(30)
     Send("{Enter}")
+    Sleep(30)
+    MouseMove(origMouseX, origMouseY, 0)
+}
+
+; FIND NPC - a single /target <name> per click, nothing automated/repeating.
+f_on_find_click(*) {
+    global g_findNameEdit
+    name := Trim(g_findNameEdit.Text)
+    if (name = "")
+        return
+    f_send_to_game_chat("/target " name)
 }
 
 f_on_compose_send_click(*) {
@@ -2899,9 +3002,18 @@ f_compose_edit_focused() {
 Enter::f_on_compose_send_click()
 #HotIf
 
+f_find_edit_focused() {
+    global g_findGui, g_findNameEdit
+    return WinActive("ahk_id " g_findGui.Hwnd) && g_findGui.FocusedCtrl = g_findNameEdit
+}
+
+#HotIf f_find_edit_focused()
+Enter::f_on_find_click()
+#HotIf
+
 f_toggle_enabled(*) {
-    global g_enabled, g_show_target, g_show_timer, g_show_chat, g_show_calibrate, g_show_party, g_last_text
-    global g_menuGui, g_endCalibGui
+    global g_enabled, g_show_target, g_show_timer, g_show_chat, g_show_calibrate, g_show_party, g_show_find, g_last_text
+    global g_menuGui, g_endCalibGui, g_findGui
     g_enabled := !g_enabled
     if g_enabled {
         g_menuGui.Show("NoActivate")
@@ -2917,6 +3029,8 @@ f_toggle_enabled(*) {
             g_chatGui.Show("NoActivate")
         if g_show_party
             g_partyGui.Show("NoActivate")
+        if g_show_find
+            g_findGui.Show("NoActivate")
         if g_show_calibrate {
             g_zoneTargetGui.Show("NoActivate")
             g_zoneChatGui.Show("NoActivate")
@@ -2931,6 +3045,7 @@ f_toggle_enabled(*) {
         g_chatGui.Hide()
         g_buffGui.Hide()
         g_partyGui.Hide()
+        g_findGui.Hide()
         g_zoneTargetGui.Hide()
         g_zoneChatGui.Hide()
         g_zonePartyGui.Hide()

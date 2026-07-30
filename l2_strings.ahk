@@ -31,6 +31,8 @@ g_str := Map()
 
 g_str["end_calib_btn"] := Map("ru", "■ ЗАВЕРШИТЬ КАЛИБРОВКУ", "en", "■ END CALIBRATION")
 
+g_str["exit_menu_item"] := Map("ru", "Выход", "en", "Exit")
+
 g_str["gemini_intro"] := Map(
     "ru", "Gemini - настоящая языковая модель, которая заметно лучше обычного "
         . "Google Translate/Tesseract понимает игровой жаргон, опечатки OCR и "
