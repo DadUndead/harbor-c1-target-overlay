@@ -2013,3 +2013,13 @@ Silhouette	42	1302	531	204	170	135	120	257	4	humanoid	no	-	0	1
 Silhouette	50	1760	748	315	206	208	146	257	4	humanoid	no	-	0	1
 Silhouette	58	2265	977	457	245	302	174	257	4	humanoid	no	-	0	1
 Puss the Cat	70	4634	1493	1333	469	779	381	253	44	human	no	-	490	10
+Ivory Fungus	45	2244	677	414	237	188	193	253	44	beast	no	-	2430	169
+Wood Eye	47	2419	738	1042	252	216	205	227	88	undead	yes	Root	2651	190
+Sorrowald	49	2602	799	480	296	247	219	253	44	undead	no	HpSuck	2881	213
+Goblin Narsell	51	2878	861	556	295	281	231	253	44	humanoid	no	Strike	3459	264
+Narsell Orc	45	2316	677	389	245	188	193	253	44	humanoid	no	Stun	2693	188
+Narsell Orc Scout	46	2406	707	414	253	202	199	253	44	humanoid	yes	Stun	2814	200
+Treant Narsell	47	2419	738	425	278	216	205	253	44	humanoid	no	Stun	3225	231
+Wood Orc Elder	48	2509	768	498	261	231	211	253	44	humanoid	yes	Stun	3249	238
+Wood Bear	49	2602	799	528	269	247	219	253	44	humanoid	yes	Flame	3025	224
+Dante Horror	50	2963	830	508	278	263	225	253	44	humanoid	yes	Heal	3000	226

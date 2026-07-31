@@ -1,4 +1,13 @@
-Wood Orc Elder
 Ivory Fungus
 Wood Eye
+Sorrowald
+Goblin Narsell
+Narsell Orc
+Narsell Orc Scout
+Treant Narsell
+Wood Orc Elder
 Wood Bear
+Dante Horror
+Swamp Terror	20	Coarse Bone Powder, Animal Skin, Magic Swamp Bow	Coarse Bone Powder, Stem
+Leafall	45	Animal Skin, Animal Bone, Coal, Leather, Cokes, Greater Healing Potion (incomplete)	Coarse Bone Powder, High Grade Suede
+Leafall Elder	53	Demon's Tunic Fabric, Demon's Stockings Pattern, Iron Ore, Steel, Adamantite Nugget, Focus Crystal (incomplete)	Mithril Ore, Silver Nugget

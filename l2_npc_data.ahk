@@ -52,17 +52,24 @@ f_load_npc_attributes() {
     }
 }
 
-; server-added/repurposed mobs (reuse an existing client model+id under a new
-; name) that have no entry in npc_info/npc_drops/npc_attributes - the panel
-; tags them "[custom]" instead of silently showing nothing.
+; server-added/repurposed mobs, tagged "[custom]" on the panel. Most of
+; these DO have full npc_info/npc_drops rows (they're drop/spoil analogs of
+; an existing mob, just under a new name+id) - the tag is still shown so
+; players know it's a server reskin. A few have no analog at all (line has
+; extra tab-separated level/drop/spoil fields, sourced from forum reports
+; rather than the client, since the client has no gameplay stats to give).
 f_load_npc_custom() {
     global NPC_CUSTOM_FILE, g_npc_custom
     if !FileExist(NPC_CUSTOM_FILE)
         return
     for line in StrSplit(FileRead(NPC_CUSTOM_FILE, "UTF-8"), "`n", "`r") {
-        line := Trim(line)
-        if (line != "")
-            g_npc_custom[StrLower(line)] := true
+        if (line = "")
+            continue
+        p := StrSplit(line, "`t")
+        key := StrLower(Trim(p[1]))
+        if (key = "")
+            continue
+        g_npc_custom[key] := { level: p.Length >= 2 ? Trim(p[2]) : "", drop: p.Length >= 3 ? Trim(p[3]) : "", spoil: p.Length >= 4 ? Trim(p[4]) : "" }
     }
 }
 
@@ -139,18 +146,48 @@ f_cell(label, value, labelW, valueW) {
 f_npc_header(npcName) {
     global g_npc_info, g_npc_custom
     key := StrLower(npcName)
-    if !g_npc_info.Has(key)
-        return g_npc_custom.Has(key) ? npcName " [custom]" : npcName
+    tag := g_npc_custom.Has(key) ? " [custom]" : ""
+    if !g_npc_info.Has(key) {
+        if g_npc_custom.Has(key) && g_npc_custom[key].level != ""
+            return npcName " " g_npc_custom[key].level tag
+        return npcName tag
+    }
     i := g_npc_info[key]
     star := (i.aggressive = "yes") ? "*" : ""
-    return npcName " " i.level star
+    return npcName " " i.level star tag
+}
+
+; drop/spoil text reported on the forum (no % chance given, unlike the
+; regular DB) - one item per line, same idea as f_split_attr_clauses so a
+; long comma list doesn't get crammed onto a single overlay line.
+f_format_custom_item_list(label, itemsCsv) {
+    lines := []
+    if (itemsCsv = "")
+        return lines
+    lines.Push([f_lbl(label)])
+    for item in StrSplit(itemsCsv, ",") {
+        item := Trim(item)
+        if (item != "")
+            lines.Push([f_lbl("  " item)])
+    }
+    return lines
 }
 
 f_format_info(npcName) {
     global g_npc_info, g_npc_attr, g_npc_custom
     key := StrLower(npcName)
-    if !g_npc_info.Has(key)
-        return g_npc_custom.Has(key) ? [[f_lbl("No stats/drop data - custom mob")]] : []
+    if !g_npc_info.Has(key) {
+        if !g_npc_custom.Has(key)
+            return []
+        c := g_npc_custom[key]
+        lines := []
+        lines.Push([f_lbl("No stats - custom mob (forum report)")])
+        for l in f_format_custom_item_list("Drop:", c.drop)
+            lines.Push(l)
+        for l in f_format_custom_item_list("Spoil:", c.spoil)
+            lines.Push(l)
+        return lines
+    }
     i := g_npc_info[key]
     lines := []
 

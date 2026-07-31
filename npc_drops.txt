@@ -6713,3 +6713,130 @@ Antaras	drop	Adamantite Necklace	20.00	1	1
 Antaras	drop	Scroll of Escape: Castle	35.00	1	9
 Antaras	drop	Silver Arrow	40.00	100	500
 Antaras	drop	Greater Healing Potion	25.00	1	9
+Ivory Fungus	drop	Adena	70.00	335	669
+Ivory Fungus	drop	Moonstone Earring	0.020	1	1
+Ivory Fungus	drop	Moonstone Earring Wire	1.48	1	1
+Ivory Fungus	drop	Aquastone Ring	0.030	1	1
+Ivory Fungus	drop	Aquastone Ring Wire	2.11	1	1
+Ivory Fungus	drop	Aquastone Necklace	0.015	1	1
+Ivory Fungus	drop	Aquastone Necklace Chain	1.18	1	1
+Ivory Fungus	drop	Charcoal	3.42	1	3
+Ivory Fungus	drop	Thread	6.83	1	3
+Ivory Fungus	drop	Cord	2.10	1	3
+Ivory Fungus	drop	Metallic Fiber	0.976	1	3
+Ivory Fungus	drop	Recipe:  Gloves of Seal	0.424	1	1
+Ivory Fungus	drop	Scroll: Enchant Weapon (Grade C)	0.012	1	1
+Ivory Fungus	spoil	Recipe: Necklace of Protection	4.56	1	1
+Ivory Fungus	spoil	Recipe: Cursed Staff	0.414	1	1
+Wood Eye	drop	Adena	70.00	365	729
+Wood Eye	drop	Crossbow	0.00178	1	1
+Wood Eye	drop	Crossbow Shaft	0.195	1	1
+Wood Eye	drop	Elven Bow of Nobility	0.00178	1	1
+Wood Eye	drop	Elven Bow of Nobility Shaft	0.195	1	1
+Wood Eye	drop	Stem	6.06	1	3
+Wood Eye	drop	Suede	2.02	1	3
+Wood Eye	drop	Braided Hemp	1.21	1	3
+Wood Eye	drop	High Grade Suede	0.253	1	3
+Wood Eye	drop	Compound Braid	0.202	1	3
+Wood Eye	drop	Recipe: Heathen's Book	0.014	1	1
+Wood Eye	drop	Cursed Bone	2.53	1	3
+Wood Eye	drop	Crystal Scroll: Enchant Armor (Grade C)	0.081	1	1
+Wood Eye	spoil	High Grade Suede	10.81	1	1
+Wood Eye	spoil	Elven Bow of Nobility Shaft	0.990	1	1
+Sorrowald	drop	Adena	70.00	397	795
+Sorrowald	drop	Dwarven Chain Shield	0.036	1	1
+Sorrowald	drop	Dwarven Chain Shield Fragment	1.99	1	1
+Sorrowald	drop	Great Helmet	0.023	1	1
+Sorrowald	drop	Great Helmet Material	1.70	1	1
+Sorrowald	drop	Iron Ore	13.21	1	1
+Sorrowald	drop	Adamantite Nugget	0.528	1	1
+Sorrowald	drop	Steel	1.32	1	1
+Sorrowald	drop	Recipe: Battle Axe	0.058	1	1
+Sorrowald	spoil	Adamantite Nugget	5.65	1	1
+Sorrowald	spoil	Shining Circlet Pattern	8.64	1	1
+Goblin Narsell	drop	Adena	70.00	478	958
+Goblin Narsell	drop	Earring of Binding	0.015	1	1
+Goblin Narsell	drop	Earring of Binding Gemstone	1.26	1	1
+Goblin Narsell	drop	Ring of Ages	0.023	1	1
+Goblin Narsell	drop	Ring of Ages Gemstone	1.97	1	1
+Goblin Narsell	drop	Necklace of Mermaid	0.011	1	1
+Goblin Narsell	drop	Necklace of Mermaid Teardrop	0.951	1	1
+Goblin Narsell	drop	Animal Bone	8.94	1	3
+Goblin Narsell	drop	Varnish	6.71	1	3
+Goblin Narsell	drop	Stone of Purity	0.447	1	3
+Goblin Narsell	drop	Coarse Bone Powder	0.894	1	3
+Goblin Narsell	drop	Recipe:  Full Plate Helmet	0.250	1	1
+Goblin Narsell	spoil	War Axe Blade	0.829	1	1
+Goblin Narsell	spoil	Recipe: Ghoul's Staff	0.250	1	1
+Narsell Orc	drop	Adena	70.00	372	743
+Narsell Orc	drop	Flamberge	0.00227	1	1
+Narsell Orc	drop	Flamberge Blade	0.216	1	1
+Narsell Orc	drop	Stormbringer	0.00227	1	1
+Narsell Orc	drop	Stormbringer Blade	0.213	1	1
+Narsell Orc	drop	Iron Ore	4.55	1	3
+Narsell Orc	drop	Animal Bone	6.07	1	3
+Narsell Orc	drop	Steel	0.455	1	3
+Narsell Orc	drop	Coarse Bone Powder	0.607	1	3
+Narsell Orc	drop	Recipe: Stiletto	0.032	1	1
+Narsell Orc	spoil	Silver Nugget	47.58	1	1
+Narsell Orc	spoil	Battle Axe Head	0.888	1	1
+Narsell Orc Scout	drop	Adena	70.00	389	777
+Narsell Orc Scout	drop	Mithril Shirt	0.014	1	1
+Narsell Orc Scout	drop	Mithril Shirt Fabric	0.870	1	1
+Narsell Orc Scout	drop	Tempered Mithril Gaiters	0.023	1	1
+Narsell Orc Scout	drop	Tempered Mithril Gaiters Fragment	1.44	1	1
+Narsell Orc Scout	drop	Iron Ore	3.96	1	3
+Narsell Orc Scout	drop	Animal Bone	5.28	1	3
+Narsell Orc Scout	drop	Steel	0.396	1	3
+Narsell Orc Scout	drop	Coarse Bone Powder	0.528	1	3
+Narsell Orc Scout	drop	Recipe: Fist Blade	0.018	1	1
+Narsell Orc Scout	drop	Silver Arrow	5.66	20	79
+Narsell Orc Scout	spoil	Scroll: Enchant Weapon (Grade C)	0.226	1	1
+Narsell Orc Scout	spoil	Mithril Ore	24.86	1	1
+Treant Narsell	drop	Adena	70.00	443	886
+Treant Narsell	drop	Stiletto	0.00216	1	1
+Treant Narsell	drop	Stiletto Edge	0.210	1	1
+Treant Narsell	drop	Soulfire Dirk	0.00216	1	1
+Treant Narsell	drop	Soulfire Dirk Blade	0.210	1	1
+Treant Narsell	drop	Silver Nugget	2.95	1	3
+Treant Narsell	drop	Mithril Ore	1.47	1	3
+Treant Narsell	drop	Recipe:  Composite Shield	0.571	1	1
+Treant Narsell	drop	Fine Steel Arrow	14.74	20	79
+Treant Narsell	spoil	Recipe: Nirvana Axe	0.302	1	1
+Treant Narsell	spoil	Crimson Boot Fabric	10.91	1	1
+Wood Orc Elder	drop	Adena	70.00	448	895
+Wood Orc Elder	drop	Plated Leather	0.00703	1	1
+Wood Orc Elder	drop	Plated Leather Fragment	0.572	1	1
+Wood Orc Elder	drop	Plated Leather Gaiters	0.011	1	1
+Wood Orc Elder	drop	Plated Leather Gaiters Material	0.855	1	1
+Wood Orc Elder	drop	Rind Leather Armor	0.00649	1	1
+Wood Orc Elder	drop	Rind Leather Mail Design	0.515	1	1
+Wood Orc Elder	drop	Rind Leather Gaiters	0.010	1	1
+Wood Orc Elder	drop	Rind Leather Gaiters Material	0.953	1	1
+Wood Orc Elder	drop	Silver Nugget	2.98	1	3
+Wood Orc Elder	drop	Mithril Ore	1.49	1	3
+Wood Orc Elder	drop	Recipe: Necklace of Mermaid	0.379	1	1
+Wood Orc Elder	drop	Cursed Bone	6.21	1	3
+Wood Orc Elder	spoil	Mithril Ore	27.07	1	1
+Wood Orc Elder	spoil	Katana Blade	0.916	1	1
+Wood Bear	drop	Adena	70.00	417	835
+Wood Bear	drop	Cursed Staff	0.00203	1	1
+Wood Bear	drop	Cursed Staff Head	0.189	1	1
+Wood Bear	drop	Dwarven War Hammer	0.00203	1	1
+Wood Bear	drop	Dwarven Warhammer Head	0.194	1	1
+Wood Bear	drop	Silver Nugget	7.40	1	1
+Wood Bear	drop	Mithril Ore	3.70	1	1
+Wood Bear	drop	Recipe: Demon's Staff	0.030	1	1
+Wood Bear	spoil	Sword of Delusion Blade	0.754	1	1
+Wood Bear	spoil	Robe of Seal Fabric	3.15	1	1
+Dante Horror	drop	Adena	70.00	414	829
+Dante Horror	drop	Heathen's Book	0.00270	1	1
+Dante Horror	drop	Heathen's Book Page	0.323	1	1
+Dante Horror	drop	Animal Bone	6.44	1	3
+Dante Horror	drop	Varnish	4.83	1	3
+Dante Horror	drop	Stone of Purity	0.322	1	3
+Dante Horror	drop	Coarse Bone Powder	0.644	1	3
+Dante Horror	drop	Recipe: Necklace of Binding	0.171	1	1
+Dante Horror	drop	Crystal Scroll: Enchant Armor (Grade C)	0.129	1	1
+Dante Horror	spoil	Recipe: Full Plate Armor	0.635	1	1
+Dante Horror	spoil	Steel	14.72	1	1
