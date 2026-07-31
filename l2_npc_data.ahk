@@ -52,6 +52,20 @@ f_load_npc_attributes() {
     }
 }
 
+; server-added/repurposed mobs (reuse an existing client model+id under a new
+; name) that have no entry in npc_info/npc_drops/npc_attributes - the panel
+; tags them "[custom]" instead of silently showing nothing.
+f_load_npc_custom() {
+    global NPC_CUSTOM_FILE, g_npc_custom
+    if !FileExist(NPC_CUSTOM_FILE)
+        return
+    for line in StrSplit(FileRead(NPC_CUSTOM_FILE, "UTF-8"), "`n", "`r") {
+        line := Trim(line)
+        if (line != "")
+            g_npc_custom[StrLower(line)] := true
+    }
+}
+
 ; user-editable corrections (right now just "aggressive") layered on top of
 ; npc_info.txt, so per-server tweaks survive re-generating the base DB dump.
 g_npc_overrides := Map()   ; lowercase npc name -> "yes"/"no"
@@ -123,20 +137,20 @@ f_cell(label, value, labelW, valueW) {
 ; panel is collapsed: "Name LV" and, if the NPC is aggressive, a trailing
 ; "*" (e.g. "Tamlin Ork Archer 42*").
 f_npc_header(npcName) {
-    global g_npc_info
+    global g_npc_info, g_npc_custom
     key := StrLower(npcName)
     if !g_npc_info.Has(key)
-        return npcName
+        return g_npc_custom.Has(key) ? npcName " [custom]" : npcName
     i := g_npc_info[key]
     star := (i.aggressive = "yes") ? "*" : ""
     return npcName " " i.level star
 }
 
 f_format_info(npcName) {
-    global g_npc_info, g_npc_attr
+    global g_npc_info, g_npc_attr, g_npc_custom
     key := StrLower(npcName)
     if !g_npc_info.Has(key)
-        return []
+        return g_npc_custom.Has(key) ? [[f_lbl("No stats/drop data - custom mob")]] : []
     i := g_npc_info[key]
     lines := []
 

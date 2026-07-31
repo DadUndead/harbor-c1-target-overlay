@@ -127,6 +127,7 @@ f_load_npc_drops()
 f_load_npc_info()
 f_load_npc_overrides()
 f_load_npc_attributes()
+f_load_npc_custom()
 f_load_player_classes()
 f_load_player_class_overrides()
 
